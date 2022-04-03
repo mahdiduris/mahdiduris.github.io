@@ -32,5 +32,5 @@ Linguistic Portfolios, Vol. 9. <a href="https://repository.stcloudstate.edu/stcl
 
 <span style="color:grey">(2020)</span> **Conference Moderator**<br/>
 15th Anniversary Virtual Conference of ISU's Doctoral Program in Applied Linguistics & Technology (ALT).<br/>
-December 3-5. Online. <a href="https://apling.engl.iastate.edu/conferences/alt-15th-anniversary-conference/" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Event page</a>
+December 3-5. Virtual/ Online. <a href="https://apling.engl.iastate.edu/conferences/alt-15th-anniversary-conference/" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Event page</a>
 
