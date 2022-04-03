@@ -7,10 +7,20 @@ author_profile: true
 
 ## Let's Stress it! Investigations of Saudi EFL Teachers' Lexical Stress Patterns<br/>
 
-**Duris, M.**, & Koffi, E. (2022). "Let's Stress it! Investigations of Saudi EFL Teachers' Lexical Stress Patterns," _Linguistic Portfolios:_ Vol. 11, Article 9<br/>
-<span style="color:grey">(<https://repository.stcloudstate.edu/stcloud_ling/vol11/iss1/9/>)</span>
+**Duris, M.**, & Koffi, E. (2022). "Let's Stress it! Investigations of Saudi EFL Teachers' Lexical Stress Patterns," _Linguistic Portfolios:_ Vol. 11, Article 9.<br/>
+<a href="https://repository.stcloudstate.edu/stcloud_ling/vol11/iss1/9/" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Accessible here</a>
 
-<span style="color:grey">(Iowa, USA)</span><br/>
-Ph.D., Applied Linguistics and Technology (ALT) <span style="color:grey">(2020 — Present)</span>
+## Vowel Intelligibility Analysis of Female Saudi Spoken English<br/>
 
-<a href="https://repository.stcloudstate.edu/stcloud_ling/vol11/iss1/9/" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">custom link</a>
+**Duris, M.** (2021). "Vowel Intelligibility Analysis of Female Saudi Spoken English," _Linguistic Portfolios:_ Vol. 10, Article 3.<br/>
+<a href="https://repository.stcloudstate.edu/stcloud_ling/vol10/iss1/3" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Accessible here</a>
+
+## Vowel Intelligibility of Saudi Spoken English<br/>
+
+**Duris, M.** (2020). "Vowel Intelligibility of Saudi Spoken English," Culminating Projects in TESL. _(29)_.<br/>
+<a href="https://repository.stcloudstate.edu/tesl_etds/29" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Accessible here</a>
+
+## English Proficiency Profile Study of an L2 Speaker from the Kingdom of Saudi Arabia<br/>
+
+**Duris, M.**, & Koffi, E. (2020). "English Proficiency Profile Study of an L2 Speaker from the Kingdom of Saudi Arabia," _Linguistic Portfolios:_ Vol. 9, Article 4.<br/>
+<a href="https://repository.stcloudstate.edu/stcloud_ling/vol9/iss1/4" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Accessible here</a>
