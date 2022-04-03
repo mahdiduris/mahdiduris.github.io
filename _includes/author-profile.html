@@ -46,6 +46,9 @@
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
       {% endif %}
+      {% if author.steam %}
+        <li><a href="https://{{ author.steam }}.com"><i class="fab fa-fw fa-steam-square" aria-hidden="true"></i> mahdiduris.com</a></li>
+      {% endif %}
        {% if author.wikipedia %}
         <li><a href="https://{{ author.wikipedia }}.com"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>
       {% endif %}
