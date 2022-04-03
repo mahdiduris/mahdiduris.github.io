@@ -14,3 +14,4 @@ My passion for languages developed as a child after living in the US, Senegal, V
 
 I have an experience of over 16 years teaching communication skills, financial literacy in Spanish, general and academic English at financial institutions and universities, including Capital One in the D.C. Metropolitan area, Technical and Vocational Training Schools (Jazan and Al-Qassim) and King Saud University (Riyadh) in the Kingdom of Saudi Arabia.
 
+<a href="http://mahdiduris.github.io/files/MDuris_CVApr2022.pdf" target="_blank" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Curriculum Vitæ</a>
