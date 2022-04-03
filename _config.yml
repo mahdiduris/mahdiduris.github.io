@@ -11,9 +11,9 @@ title                    : "Mahdi Duris"
 title_separator          : "-"
 name                     : &name "Mahdi Duris"
 description              : &description "Academic Site"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://mahdiduris.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "mahdiduris.github.io"
+repository               : "https://github.com/mahdiduris?tab=repositories"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Mahdi Duris"
   avatar           : "ProfilePic2.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Research assistant and Ph.D. student in the Applied Linguistics and Technology program of ISU"
   location         : "Ames, Iowa"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : "httphttps://scholar.google.com/citations?user=4p0oiQ0AAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "linkedin.com/in/mahdi-d-6242894b"
   orcid            : 
   pinterest        :
   soundcloud       :
