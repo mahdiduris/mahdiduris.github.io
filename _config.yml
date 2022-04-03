@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Mahdi Duris"
-  avatar           : "ProfilePic.JPG"
+  avatar           : "ProfilePic.png"
   bio              : "Research assistant/ Ph.D. student in the Applied Linguistics and Technology program of ISU"
   location         : "Ames, Iowa"
   employer         :
   pubmed           : 
-  googlescholar    : "httphttps://scholar.google.com/citations?user=4p0oiQ0AAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=4p0oiQ0AAAAJ"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Mahdi-Duris" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
