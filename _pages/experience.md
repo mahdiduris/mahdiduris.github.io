@@ -12,12 +12,11 @@ Iowa State University <span style="color:grey">(Jan. 2022 — Present)</span>
 + Project: Adaptive explicit and implicit feedback in second language pronunciation training
 + Research funded by the National Science Foundation (2020)
 
-
 ## Graduate Teaching Assistant <span style="color:grey">(Iowa, USA)</span><br/>
 -------------------------------------------------------------------
 Iowa State University <span style="color:grey">(Aug. 2020 — Present)</span><br/>
-+ Instructor for ENGL 101B <a href="https://apling.engl.iastate.edu/esl-courses/" target="_blank" style="color: black; text-decoration: underline;text-decoration-style: dotted;">English for Native Speakers of Other Languages: Academic English</a>
-+ Instructor for SP CM 212 <a href="https://engl.iastate.edu/course-descriptions/" target="_blank" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Fundamentals of Public Speaking</a>
++ Instructor for ENGL 101B: <a href="https://apling.engl.iastate.edu/esl-courses/" target="_blank" style="color: black; text-decoration: underline;text-decoration-style: dotted;">English for Native Speakers of Other Languages: Academic English</a>
++ Instructor for SP CM 212: <a href="https://engl.iastate.edu/course-descriptions/" target="_blank" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Fundamentals of Public Speaking</a>
 
 ## Global Online Course Mentor <span style="color:grey">(Iowa, USA)</span><br/>
 -------------------------------------------------------------------
@@ -46,7 +45,7 @@ King Saud University <span style="color:grey">(2016 — 2017)</span>
 -------------------------------------------------------------------
 Technical and Vocational Training Corporation <span style="color:grey">(2014 — 2016)</span>
 + Provided Orientation and continuous training for all Site teachers and administrators at Buraydah's <a href="https://sites.google.com/a/interlink.edu/malanazi/home/ada-hyyte-altdryb-waladaryyn" target="_blank" style="color: black; text-decoration: underline;text-decoration-style: dotted;">TVTC location</a>
-+ Attended to the logistics and Human resources between the site and the central office and TVTC
++ Attended to the logistics and Human resources between the site, Central Office, and TVTC
 
 ## English Language Instructor & Acting Site Director <span style="color:grey">(Al-Qassim, Saudi Arabia)</span>
 -------------------------------------------------------------------
