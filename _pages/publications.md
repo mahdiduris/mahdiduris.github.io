@@ -13,3 +13,4 @@ author_profile: true
 <span style="color:grey">(Iowa, USA)</span><br/>
 Ph.D., Applied Linguistics and Technology (ALT) <span style="color:grey">(2020 — Present)</span>
 
+<a href="https://repository.stcloudstate.edu/stcloud_ling/vol11/iss1/9/" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">custom link</a>
