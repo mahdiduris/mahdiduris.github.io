@@ -8,4 +8,4 @@ author_profile: true
 
 
 **Iowa State University** _(IA)_<br/>
-Ph.D., Applied Linguistics and Technology (ALT) _(2020—Present)_
+Ph.D., Applied Linguistics and Technology (ALT) <span style="color:grey">(2020 — Present)</span>
