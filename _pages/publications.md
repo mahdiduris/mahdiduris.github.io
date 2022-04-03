@@ -5,12 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+**Let's Stress it! Investigations of Saudi EFL Teachers' Lexical Stress Patterns**<br/>
+**Duris, M.**, & Koffi, E. (2022). "Let's Stress it! Investigations of Saudi EFL Teachers' Lexical Stress Patterns," _Linguistic Portfolios:_ Vol. 11, Article 9<br/>
+https://repository.stcloudstate.edu/stcloud_ling/vol11/iss1/9/
 
-{% include base_path %}
+<span style="color:grey">(Iowa, USA)</span><br/>
+Ph.D., Applied Linguistics and Technology (ALT) <span style="color:grey">(2020 — Present)</span>
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
