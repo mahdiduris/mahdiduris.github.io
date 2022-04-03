@@ -16,7 +16,7 @@ main:
     url: /experience/
  
   - title: "Languages"
-    #url: /languages/
+    url: /languages/
  
   - title: "CV"
     url: /cv/
