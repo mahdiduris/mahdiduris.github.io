@@ -11,7 +11,7 @@ title                    : "Mahdi Duris"
 title_separator          : "-"
 name                     : &name "Mahdi Duris"
 description              : &description "Academic Site"
-url                      : https://mahdiduris.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://mahdiduris.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/mahdiduris?tab=repositories"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Mahdi Duris"
   avatar           : "ProfilePic2.jpg"
-  bio              : "Research assistant and Ph.D. student in the Applied Linguistics and Technology program of ISU"
+  bio              : "Research assistant/ Ph.D. student in the Applied Linguistics and Technology program of ISU"
   location         : "Ames, Iowa"
   employer         :
   pubmed           : 
