@@ -5,8 +5,8 @@ permalink: /languages/
 author_profile: true
 ---
 
-**Native**
+**Native**<br/>
 English, French and Spanish
 
-**Beginner**
+**Beginner**<br/>
 Arabic
