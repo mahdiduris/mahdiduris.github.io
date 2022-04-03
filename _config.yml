@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "Iowa, USA"
-title                    : "Mahdi Duris"
+title                    : "أَهْلًا وَسَهْلًا"
 title_separator          : "-"
 name                     : &name "Mahdi Duris"
 description              : &description "Academic Site"
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://mahdiduris.github.io"
+  github           : "mahdiduris"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "linkedin.com/in/mahdi-d-6242894b"
+  linkedin         : "mahdi-d-6242894b"
   orcid            : 
   pinterest        :
   soundcloud       :
