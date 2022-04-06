@@ -54,6 +54,6 @@ Technical and Vocational Training Corporation <span style="color:grey">(2013 —
 <br/>
 
 **Financial Center Coach** <span style="color:grey">(Washington D.C., USA)</span><br/>
-Capital Bank, N.A. <span style="color:grey">(2006 — 2013)</span><br/>
+Capital One Bank, N.A. <span style="color:grey">(2006 — 2013)</span><br/>
 + Coached over 65 ESL adults using English for Specific Purposes (ESP) specifically for the Banking Industry environment<br/>
 + Facilitated monthly and quarterly training sessions around targeted language to achieve company objectives<br/>
