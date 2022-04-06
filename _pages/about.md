@@ -12,6 +12,6 @@ I'm a research assistant and Ph.D. student in Applied Linguistics and Technology
 
 ## <a href="https://mahdiduris.github.io/files/MDuris_CVApr2022.pdf" target="_blank" style="text-align: center; color: #229954; text-decoration: underline;text-decoration-style: dotted;">Curriculum Vitæ</a><br/>
 
-My current ongoing project is to document the segmental and suprasegmental features of Saudi Spoken English. Currently, no research has focused on exclusively documenting the features of English spoken by Saudis. As I develop my research around this topic, it will be made available here:<br/>
+My ongoing project is to document the segmental and suprasegmental features of Saudi Spoken English. Currently, no research has focused on exclusively documenting the features of English spoken by Saudis. As I develop my research around this topic, it will be made available here:<br/>
 
 ## <a href="https://saudispokenenglish.com" target="_blank" style="text-align: center; color: #345015; text-decoration: underline;text-decoration-style: dotted;">SaudiSpokenEnglish.com</a>
