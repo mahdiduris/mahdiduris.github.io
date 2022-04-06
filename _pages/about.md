@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I'm a research assistant and Ph.D. student in Applied Linguistics and Technology (ALT) at Iowa State University. My research interest is in the area(s) of pronunciation, phonetics, and phonology. Specifically, the automation of intelligibility ratings by way of the Acoustic Masking and Intelligibility (AMI) theory. I also conduct research on Mispronunciation Detection and Diagnosis (MDD) systems.
+I'm a research assistant and Ph.D. student in Applied Linguistics and Technology (ALT) at Iowa State University. My research interest is in the area(s) of pronunciation, phonetics, and phonology. Specifically, the automation of intelligibility ratings by way of the Acoustic Masking and Intelligibility (AMI) theory. I also research on Mispronunciation Detection and Diagnosis (MDD) systems.<br/>
 
-My passion for languages developed as a child after living in the US, Senegal, Venezuela and France. I completed an M.A. in Teaching English as a Second Language (TESL) at Saint Cloud State University (2020) while teaching EAP (English for Academic Purposes). I also hold a Bachelor of Science in Management from George Mason University (2006) and obtained a Certificate in Teaching English to Speakers of Other Languages (CELTA) from Cambridge University (2012). 
+## <a href="https://mahdiduris.github.io/files/MDuris_CVApr2022.pdf" target="_blank" style="text-align: center; color: #229954; text-decoration: underline;text-decoration-style: dotted;">Curriculum Vitæ</a><br/>
 
-I have an experience of over 16 years teaching communication skills, financial literacy in Spanish, general and academic English at financial institutions and universities, including Capital One in the D.C. Metropolitan area, Technical and Vocational Training Schools (Jazan and Al-Qassim) and King Saud University (Riyadh) in the Kingdom of Saudi Arabia.
+My current ongoing project is to document the segmental and suprasegmental features of Saudi Spoken English. Currently, no research has focused on exclusively documenting the features of English spoken by Saudis. As I develop my research around this topic, it will be made available here:<br/>
 
-## <a href="https://mahdiduris.github.io/files/MDuris_CVApr2022.pdf" target="_blank" style="text-align: center; color: #229954; text-decoration: underline;text-decoration-style: dotted;">Curriculum Vitæ</a>
+## <a href="https://saudispokenenglish.com" target="_blank" style="text-align: center; color: #345015; text-decoration: underline;text-decoration-style: dotted;">SaudiSpokenEnglish.com</a>
