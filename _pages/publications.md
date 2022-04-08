@@ -17,7 +17,7 @@ author_profile: true
 
 ## Vowel Intelligibility of Saudi Spoken English<br/>
 
-**Duris, M.** (2020). "Vowel Intelligibility of Saudi Spoken English,"<br/>Culminating Projects in TESL. _(29)_.doi: 10.13140/RG.2.2.26991.10404<br/>
+**Duris, M.** (2020). "Vowel Intelligibility of Saudi Spoken English,"<br/>Culminating Projects in TESL. _(29)_. doi: 10.13140/RG.2.2.26991.10404<br/>
 <a href="https://repository.stcloudstate.edu/tesl_etds/29" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Accessible here</a>
 
 ## English Proficiency Profile Study of an L2 Speaker from the Kingdom of Saudi Arabia<br/>
