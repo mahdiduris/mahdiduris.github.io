@@ -6,6 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+meta name="robots" content="noodp,noydir" /
 ---
 
 I'm a research assistant and Ph.D. student in Applied Linguistics and Technology (ALT) at Iowa State University. My research interest is in pronunciation, phonetics, and phonology. Specifically, the automation of intelligibility ratings by way of the Acoustic Masking and Intelligibility (**AMI**) theory. I also conduct research on Mispronunciation Detection and Diagnosis (**MDD**) systems.<br/>
