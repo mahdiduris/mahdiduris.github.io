@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Mahdi Duris"
+title: "Mahdi Duris, Pronunciation Research"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
