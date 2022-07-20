@@ -12,14 +12,21 @@ Iowa State University <span style="color:grey">(Jan. 2022 — Present)</span><br
 + Research funded by the National Science Foundation (2020)<br/>
 <br/>
 
+**Graduate Research Assistant** <span style="color:grey">(Iowa, USA)</span><br/>
+Iowa State University <span style="color:grey">(Jan. 2022 — Present)</span><br/>
++ Research Assistant to <a href="https://engl.iastate.edu/directory/volker-hegelheimer/" target="_blank" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Dr. Volker Hegelheimer</a><br/>
++ Project: Using educational technology in the English language classroom<br/>
++ Research funded by the U.S. Department of State (2020)<br/>
+<br/>
+
 **Graduate Teaching Assistant** <span style="color:grey">(Iowa, USA)</span><br/>
-Iowa State University <span style="color:grey">(Aug. 2020 — Present)</span><br/>
+Iowa State University <span style="color:grey">(Aug. 2020 — May, 2022)</span><br/>
 + Instructor for ENGL 101B: <a href="https://apling.engl.iastate.edu/esl-courses/" target="_blank" style="color: black; text-decoration: underline;text-decoration-style: dotted;">English for Native Speakers of Other Languages: Academic English</a><br/>
 + Instructor for SP CM 212: <a href="https://engl.iastate.edu/course-descriptions/" target="_blank" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Fundamentals of Public Speaking</a><br/>
 <br/>
 
 **Global Online Course Mentor** <span style="color:grey">(Iowa, USA)</span><br/>
-Iowa State University <span style="color:grey">(Aug. 2020 — Present)</span><br/>
+Iowa State University <span style="color:grey">(Aug. 2020 — May, 2022)</span><br/>
 + Mentor for the Online Professional English Network <a href="https://www.openenglishprograms.org/dtawc" target="_blank" style="color: black; text-decoration: underline;text-decoration-style: dotted;">(OPEN)</a>, previously knows as American English (AE) E-Teacher Program, sponsored by the U.S. Department of State and administered by FHI 360<br/>
 <br/>
 
