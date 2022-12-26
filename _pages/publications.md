@@ -17,13 +17,13 @@ author_profile: true
 
 ## Let's Stress it! Investigations of Saudi EFL Teachers' Lexical Stress Patterns<br/>
 
-**Duris, M.**, & Koffi, E. (2022). Let's Stress it! Investigations of Saudi EFL Teachers' Lexical Stress Patterns.<br/>_Linguistic Portfolios:_ Vol. 11, Article 9.<br/>
+**Duris, M.**, & Koffi, E. (2022). Let's Stress it! Investigations of Saudi EFL Teachers' Lexical Stress Patterns.<br/>_Linguistic Portfolios: Vol. 11_, Article 9.<br/>
 Part of the Applied Linguistics Commons<br/>
 <a href="https://repository.stcloudstate.edu/stcloud_ling/vol11/iss1/9/" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Accessible here</a>
 
 ## Vowel Intelligibility Analysis of Female Saudi Spoken English<br/>
 
-**Duris, M.** (2021). Vowel Intelligibility Analysis of Female Saudi Spoken English.<br/>_Linguistic Portfolios:_ Vol. 10, Article 3.<br/>
+**Duris, M.** (2021). Vowel Intelligibility Analysis of Female Saudi Spoken English.<br/>_Linguistic Portfolios: Vol. 10_, Article 3.<br/>
 Part of the Applied Linguistics Commons<br/>
 <a href="https://repository.stcloudstate.edu/stcloud_ling/vol10/iss1/3" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Accessible here</a>
 
@@ -35,6 +35,6 @@ Part of the Applied Linguistics Commons<br/>
 
 ## English Proficiency Profile Study of an L2 Speaker from the Kingdom of Saudi Arabia<br/>
 
-**Duris, M.**, & Koffi, E. (2020). English Proficiency Profile Study of an L2 Speaker from the Kingdom of Saudi Arabia.<br/>_Linguistic Portfolios:_ Vol. 9, Article 4.<br/>
+**Duris, M.**, & Koffi, E. (2020). English Proficiency Profile Study of an L2 Speaker from the Kingdom of Saudi Arabia.<br/>_Linguistic Portfolios: Vol. 9_, Article 4.<br/>
 Part of the Applied Linguistics Commons<br/>
 <a href="https://repository.stcloudstate.edu/stcloud_ling/vol9/iss1/4" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Accessible here</a>
