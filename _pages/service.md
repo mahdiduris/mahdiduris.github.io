@@ -6,15 +6,19 @@ author_profile: true
 ---
 
 <span style="color:grey">(2022)</span> **Organizing Committee Co-Chair**<br/>
-19th Technology & Second Language Learning conference (TSLL).<br/>
+19th Technology for Second Language Learning conference (TSLL).<br/>
 Scheduled for October 14-15, 2022. In-person/ Online (Hybrid). <a href="https://apling.engl.iastate.edu/conferences/technology-for-second-language-learning-conference/tsll-2022/" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Event page</a>
 
 <span style="color:grey">(2022)</span> **Article Reviewer**<br/>
 Linguistic Portfolios, Vol. 11. <a href="https://repository.stcloudstate.edu/stcloud_ling/vol11/iss1/" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Journal Page</a>
 
+<span style="color:grey">(2021 — Present)</span> **TSLL Conference Webmaster**<br/>
+Technology for Second Language Learning conference (TSLL).<br/>
+Responsible for design and continuity. <a href="https://apling.engl.iastate.edu/conferences/technology-for-second-language-learning-conference/tsll-archive/" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Archive Page</a>
+
 <span style="color:grey">(2021)</span> **Article Reviewer**<br/>
 Proceedings for the 12th Annual Pronunciation in Second Language Learning and Teaching conference (PSLLT).<br/>
-<a href="https://apling.engl.iastate.edu/conferences/pronunciation-in-second-language-learning-and-teaching-conference/psllt-archive/" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Forthcoming page (not available)</a>
+<a href="https://www.iastatedigitalpress.com/psllt/issue/1155/info/" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Journal Page</a>
 
 <span style="color:grey">(2021)</span> **Article Reviewer**<br/>
 Linguistic Portfolios, Vol. 10. <a href="https://repository.stcloudstate.edu/stcloud_ling/vol10/iss1/" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Journal Page</a>
