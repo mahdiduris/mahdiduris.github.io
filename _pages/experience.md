@@ -20,7 +20,7 @@ Iowa State University <span style="color:grey">(June 2022 — Present)</span><br
 <br/>
 
 **English Placement Test Rater** <span style="color:grey">(Iowa, USA)</span><br/>
-Iowa State University <span style="color:grey">(August 2021 — Present)</span><br/>
+Iowa State University <span style="color:grey">(Aug. 2021 — Present)</span><br/>
 + Assess the oral communication ability of international students for academic contexts
 + Test administration every semester (Fall and Spring) <a href="https://engl.iastate.edu/directory/volker-hegelheimer/" target="_blank" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Information Page</a><br/>
 <br/>
