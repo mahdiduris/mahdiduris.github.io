@@ -25,6 +25,12 @@ Iowa State University <span style="color:grey">(August 2021 — Present)</span><
 + Test administration every semester (Fall and Spring) <a href="https://engl.iastate.edu/directory/volker-hegelheimer/" target="_blank" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Information Page</a><br/>
 <br/>
 
+**Co-teacher Oral Language & Technology** <span style="color:grey">(Iowa, USA)</span><br/>
+Iowa State University <span style="color:grey">(Aug. 2022 — Dec. 2022)</span><br/>
++ ENGL 530 Teaching Assistant to <a href="https://faculty.sites.iastate.edu/jlevis/" target="_blank" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Dr. John M. Levis</a><br/>
++ Course Objectives: Structure and description of oral language and discourse. How spoken language is linguistically described, analyzed, and taught for research and for education. Using technology to record, transcribe, and analyze spoken language at all levels of linguistic structure.<br/>
+<br/>
+
 **Graduate Teaching Assistant** <span style="color:grey">(Iowa, USA)</span><br/>
 Iowa State University <span style="color:grey">(Aug. 2020 — May 2022)</span><br/>
 + Instructor for ENGL 101B: <a href="https://apling.engl.iastate.edu/esl-courses/" target="_blank" style="color: black; text-decoration: underline;text-decoration-style: dotted;">English for Native Speakers of Other Languages: Academic English</a><br/>
