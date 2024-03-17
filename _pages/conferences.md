@@ -10,7 +10,7 @@ Paper presented at the 45th annual Southwest Popular/American Culture Associatio
 In-person. <a href="https://mahdiduris.github.io/files/SWPACA Final-Program-2024.pdf" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Program</a> 
 
 <span style="color:grey">(2023)</span> **Controlled Tasks for Longitudinal L2 Pronunciation Studies: Read aloud**<br/>
-Poster presented at the Symposium for Second language speech learning: Balancing big data and individual learning trajectories.<br/>
+Poster presented at the Iowa State University Symposium for Second language speech learning: Balancing big data and individual learning trajectories.<br/>
 In-person. <a href="https://doi.org/10.6084/m9.figshare.25284739.v1" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Poster</a>
 
 <span style="color:grey">(2023)</span> **Longitudinal Perception and Production Development of Second Language Vowels**<br/>
