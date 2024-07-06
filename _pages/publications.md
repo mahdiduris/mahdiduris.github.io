@@ -5,6 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
+## Methodological Influences on Word Stress Identification: Implications for Research and Teaching<br/>
+
+**Duris, M.**, Levis, J. M., Neiriz, R., & Silpachai, A. O. (2024). Methodological Influences on Word Stress Identification: Implications for Research and Teaching.<br/>Proceedings of Speech Prosody 2024, Leiden, The Netherlands: International Speech Communication Association, 2024, p. 732-736. doi: 10.21437/SpeechProsody.2024-148<br/>
+<a href="https://www.isca-archive.org/speechprosody_2024/duris24_speechprosody.pdf" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Accessible here</a>
+
 ## Accentedness and Intelligibility: The typical phonetic story of an Lx couple in the US<br/>
 
 **Duris, M.** (2024). Accentedness and Intelligibility: The typical phonetic story of an Lx couple in the US.<br/>_Linguistic Portfolios: Vol. 13_, Article 10.<br/>
