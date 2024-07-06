@@ -6,7 +6,7 @@ author_profile: true
 ---
 <span style="color:grey">(2024)</span> **Methodological Influences on Word Stress Identification: Implications for Research and Teaching**<br/>
 Poster presented at the 12th biennial meeting of the Speech Prosody Special Interest Group (Speech Prosody 2024).<br/>
-In-person. <a href="10.6084/m9.figshare.26196014" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Poster</a>
+In-person. <a href="https://doi.org/10.6084/m9.figshare.26196014" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Poster</a>
 
 <span style="color:grey">(2024)</span> **Voices of Love: Accentedness and Intelligibility in the Narratives of Lx Couples**<br/>
 Paper presented at the 45th annual Southwest Popular/American Culture Association (SWPACA) conference.<br/>
