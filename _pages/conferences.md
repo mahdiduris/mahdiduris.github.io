@@ -5,11 +5,11 @@ permalink: /conferences/
 author_profile: true
 ---
 <span style="color:grey">(2024)</span> **Comparing Human and Generative AI Analysis of Emotions in U.S. Abortion Tweets**<br/>
-Paper presented at the 21st Annual Technology for Second Language Learning Conference, Ames, IA, US.<br/>
+Paper presented at the 21st Annual Technology for Second Language Learning (TSLL) Conference, Ames, IA, US.<br/>
 In-person. <a href="https://github.com/mahdiduris/mahdiduris.github.io/blob/master/files/TSLL-Program-Book-2024.pdf" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Program</a>
 
 <span style="color:grey">(2024)</span> **ChatGPT in ESL writing: L2 learners’ perspectives**<br/>
-Paper presented at the 21st Annual Technology for Second Language Learning Conference, Ames, IA, US.<br/>
+Paper presented at the 21st Annual Technology for Second Language Learning (TSLL) Conference, Ames, IA, US.<br/>
 In-person. <a href="https://github.com/mahdiduris/mahdiduris.github.io/blob/master/files/TSLL-Program-Book-2024.pdf" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Program</a>
 
 <span style="color:grey">(2024)</span> **Interacting with ChatGPT: Exploring engagement and feedback in ESL writing**<br/>
