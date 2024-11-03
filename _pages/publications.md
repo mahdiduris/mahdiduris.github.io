@@ -7,7 +7,7 @@ author_profile: true
 
 ## Feedback and Automated Writing Evaluation<br/>
 
-Na, I., **Duris, M.**, Hegelheimer, V. (Forthcoming). Feedback and Automated Writing Evaluation. In Nunan, D. & Stockwell, G. (Ed.),<br/>_Insights into AI and Language Teaching and Learning_. Castledown (invited chapter; manuscript in preparation)<br/>
+Na, I., **Duris, M.**, Hegelheimer, V. (Forthcoming). Feedback and Automated Writing Evaluation. In Nunan, D. & Stockwell, G. (Ed.),<br/>_Insights into AI and Language Teaching and Learning_. Castledown (invited chapter; manuscript under review)<br/>
 
 ## Methodological Influences on Word Stress Identification: Implications for Research and Teaching<br/>
 
