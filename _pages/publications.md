@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+## Feedback and Automated Writing Evaluation<br/>
+
+Na, I., **Duris, M.**, Hegelheimer, V. (Forthcoming). Feedback and Automated Writing Evaluation. In Nunan, D. & Stockwell, G. (Ed.),<br/>_Insights into AI and Language Teaching and Learning_. Castledown (invited chapter; manuscript in preparation)<br/>
+
 ## Methodological Influences on Word Stress Identification: Implications for Research and Teaching<br/>
 
 **Duris, M.**, Levis, J. M., Neiriz, R., & Silpachai, A. O. (2024). Methodological Influences on Word Stress Identification: Implications for Research and Teaching.<br/>_Proceedings of Speech Prosody 2024, Leiden, The Netherlands: International Speech Communication Association, 2024, p. 732-736_. doi: 10.21437/SpeechProsody.2024-148<br/>
