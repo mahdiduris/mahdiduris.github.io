@@ -4,11 +4,11 @@ title: "Academic Service"
 permalink: /service/
 author_profile: true
 ---
-**Social Media Lead & Webmaster** <span style="color:grey">(2024-Present)<br/>
+**Social Media Lead & Webmaster** <span style="color:grey">(2024-Present)</span><br/>
 _Applied Linguistics Program (ApLing) at Iowa State University._<br/>
 Responsible for design, messaging, initiatives, and continuity. <a href="https://apling.engl.iastate.edu/conferences/technology-for-second-language-learning-conference/tsll-archive/" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Main website</a> | <a href="https://www.linkedin.com/company/isuaplingprogram/" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">LinkedIn</a> | <a href="https://x.com/apling_iastate" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">𝕏 (Twitter)</a>
 
-**Social Media Lead & Webmaster** <span style="color:grey">(2022-Present)<br/>
+**Social Media Lead & Webmaster** <span style="color:grey">(2022-Present)</span><br/>
 _Technology for Second Language Learning conference (TSLL)._<br/>
 Responsible for design, messaging, initiatives, and continuity. <a href="https://apling.engl.iastate.edu/conferences/technology-for-second-language-learning-conference/tsll-archive/" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Archive Page</a> | <a href="https://www.linkedin.com/showcase/tsll/" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">LinkedIn</a> | <a href="https://twitter.com/TSLL_iastate" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">𝕏 (Twitter)</a>
 
@@ -17,7 +17,7 @@ _The 11th International Symposium on the Acquisition of Second Language Speech (
 <a href="https://www.iastatedigitalpress.com/psllt/issue/1230/info/" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Event Page</a>
 
 <span style="color:grey">(2024)</span> **Organizing Committee Co-Chair & Webmaster**<br/>
-_21st Technology for Second Language Learning conference (TSLL)._<br/>
+_21st Technology for Second Language Learning conference (TSLL 2024)._<br/>
 October 24-26, 2024. In-person/ Online (Hybrid). <a href="https://apling.engl.iastate.edu/conferences/technology-for-second-language-learning-conference/tsll-2024/" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Event page</a>
 
 <span style="color:grey">(2024)</span> **Organizing Committee Co-Chair & Webmaster**<br/>
