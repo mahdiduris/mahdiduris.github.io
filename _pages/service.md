@@ -6,7 +6,7 @@ author_profile: true
 ---
 **Social Media Lead & Webmaster** <span style="color:grey">(2024-Present)</span><br/>
 _Applied Linguistics Program (ApLing) at Iowa State University._<br/>
-Responsible for design, messaging, initiatives, and continuity. <a href="https://apling.engl.iastate.edu/conferences/technology-for-second-language-learning-conference/tsll-archive/" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Main website</a> | <a href="https://www.linkedin.com/company/isuaplingprogram/" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">LinkedIn</a> | <a href="https://x.com/apling_iastate" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">𝕏 (Twitter)</a>
+Responsible for design, messaging, initiatives, and continuity. <a href="https://apling.engl.iastate.edu/" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Main website</a> | <a href="https://www.linkedin.com/company/isuaplingprogram/" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">LinkedIn</a> | <a href="https://x.com/apling_iastate" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">𝕏 (Twitter)</a>
 
 **Social Media Lead & Webmaster** <span style="color:grey">(2022-Present)</span><br/>
 _Technology for Second Language Learning conference (TSLL)._<br/>
