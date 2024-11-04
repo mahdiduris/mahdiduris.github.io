@@ -8,7 +8,7 @@ author_profile: true
 
 
 **Iowa State University** <span style="color:grey">(Iowa, USA)</span><br/>
-Ph.D., Applied Linguistics and Technology (ALT) <span style="color:grey">(2020 — Present)</span>
+Ph.D. Candidate, Applied Linguistics and Technology (ALT) <span style="color:grey">(2020 — Present)</span>
 
 **Saint Cloud State University** <span style="color:grey">(Minnesota, USA)</span><br/>
 M.A., Teaching English as a Second Language (TESL) <span style="color:grey">(2018 — 2020)</span>
