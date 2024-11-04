@@ -29,33 +29,33 @@ _Exploring AI in Applied Linguistics. Iowa State University Digital Press.._<br/
 <a href="https://www.iastatedigitalpress.com/plugins/books/154/" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Open Book Page</a>
 
 <span style="color:grey">(2024)</span> **Reviewer**<br/>
-_Proceedings for the 14th Annual Pronunciation in Second Language Learning and Teaching conference (PSLLT)._<br/>
+_Proceedings for the 14th Annual Pronunciation in Second Language Learning and Teaching conference (PSLLT 2023)._<br/>
 <a href="https://www.iastatedigitalpress.com/psllt/issue/1230/info/" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Journal Page</a>
 
 <span style="color:grey">(2023)</span> **Organizing Committee Co-Chair & Webmaster**<br/>
-_20th Technology for Second Language Learning conference (TSLL)._<br/>
+_20th Technology for Second Language Learning conference (TSLL 2023)._<br/>
 October 19-21, 2023. In-person/ Online (Hybrid). <a href="https://apling.engl.iastate.edu/conferences/technology-for-second-language-learning-conference/tsll-2023/" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Event page</a>
 
 <span style="color:grey">(2022)</span> **Organizing Committee Co-Chair & Webmaster**<br/>
-_19th Technology for Second Language Learning conference (TSLL)._<br/>
+_19th Technology for Second Language Learning conference (TSLL 2022)._<br/>
 October 14-15, 2022. In-person/ Online (Hybrid). <a href="https://apling.engl.iastate.edu/conferences/technology-for-second-language-learning-conference/tsll-2022/" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Event page</a>
 
 <span style="color:grey">(2022)</span> **Reviewer**<br/>
 _Linguistic Portfolios,_ Vol. 11. <a href="https://repository.stcloudstate.edu/stcloud_ling/vol11/iss1/" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Journal Page</a>
 
 <span style="color:grey">(2021)</span> **Reviewer**<br/>
-_Proceedings for the 12th Annual Pronunciation in Second Language Learning and Teaching conference (PSLLT)._<br/>
+_Proceedings for the 12th Annual Pronunciation in Second Language Learning and Teaching conference (PSLLT 2021)._<br/>
 <a href="https://www.iastatedigitalpress.com/psllt/issue/1155/info/" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Journal Page</a>
 
 <span style="color:grey">(2021)</span> **Reviewer**<br/>
 _Linguistic Portfolios,_ Vol. 10. <a href="https://repository.stcloudstate.edu/stcloud_ling/vol10/iss1/" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Journal Page</a>
 
 <span style="color:grey">(2021)</span> **Conference Moderator**<br/>
-_18th Technology for Second Language Learning conference (TSLL)_ and _22nd MidWest Association of Language Testers conference (MwALT)._<br/>
+_18th Technology for Second Language Learning conference (TSLL 2021)_ and _22nd MidWest Association of Language Testers conference (MwALT)._<br/>
 October 8-9. Virtual/ Online. <a href="https://apling.engl.iastate.edu/conferences/mwalt2021/" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Event page</a>
 
 <span style="color:grey">(2021)</span> **Organizing Committee Co-Chair & Conference Moderator**<br/>
-_12th Annual Pronunciation in Second Language Learning and Teaching conference (PSLLT)._<br/>
+_12th Annual Pronunciation in Second Language Learning and Teaching conference (PSLLT 2021)._<br/>
 June 18-19. Virtual/ Online. <a href="https://brocku.ca/psllt-2021/" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Event page</a>
 
 <span style="color:grey">(2020)</span> **Reviewer**<br/>
