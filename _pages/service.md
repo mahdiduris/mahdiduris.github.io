@@ -25,7 +25,7 @@ _15th annual Pronunciation in Second Language Learning and Teaching conference (
 Responsible for logistics and communication for PSLLT 2024. <a href="https://apling.engl.iastate.edu/conferences/pronunciation-in-second-language-learning-and-teaching-conference/psllt-archive/" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Event Page</a>
 
 <span style="color:grey">(2024)</span> **Editorial Reviewer**<br/>
-_Exploring AI in Applied Linguistics. Iowa State University Digital Press.._<br/>
+_Exploring AI in Applied Linguistics. Iowa State University Digital Press._<br/>
 <a href="https://www.iastatedigitalpress.com/plugins/books/154/" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Open Book Page</a>
 
 <span style="color:grey">(2024)</span> **Reviewer**<br/>
@@ -38,6 +38,10 @@ _Linguistic Portfolios,_ Vol. 13. <a href="https://repository.stcloudstate.edu/s
 <span style="color:grey">(2023)</span> **Organizing Committee Co-Chair & Webmaster**<br/>
 _20th Technology for Second Language Learning conference (TSLL 2023)._<br/>
 October 19-21, 2023. In-person/ Online (Hybrid). <a href="https://apling.engl.iastate.edu/conferences/technology-for-second-language-learning-conference/tsll-2023/" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Event page</a>
+
+<span style="color:grey">(2023)</span> **Peer Mentor**<br/>
+_Department of English, Peer Advisory Resource Team (PART)._<br/>
+Mentor for an incoming master's and a doctoral student for AY 2023-2024.
 
 <span style="color:grey">(2023)</span> **Reviewer**<br/>
 _Linguistic Portfolios,_ Vol. 12. <a href="https://repository.stcloudstate.edu/stcloud_ling/vol12/iss1/" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Journal Page</a>
