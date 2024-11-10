@@ -46,9 +46,17 @@ Mentor for an incoming master's and a doctoral student for AY 2023-2024.
 <span style="color:grey">(2023)</span> **Reviewer**<br/>
 _Linguistic Portfolios,_ Vol. 12. <a href="https://repository.stcloudstate.edu/stcloud_ling/vol12/iss1/" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Journal Page</a>
 
+<span style="color:grey">(2022)</span> **Program Open House**<br/>
+_Iowa State University, Applied Linguistics Program_<br/>
+Assisted prospective graduate students by addressing inquiries about program structure, research opportunities, and academic resources. December, 2022. Online.
+
 <span style="color:grey">(2022)</span> **Organizing Committee Co-Chair & Webmaster**<br/>
 _19th Technology for Second Language Learning conference (TSLL 2022)._<br/>
 October 14-15, 2022. In-person/ Online (Hybrid). <a href="https://apling.engl.iastate.edu/conferences/technology-for-second-language-learning-conference/tsll-2022/" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Event page</a>
+
+<span style="color:grey">(2022)</span> **Linguistics Home Tour**<br/>
+_Iowa State University, Applied Linguistics Program_<br/>
+Presented <i><a href="https://bit.ly/respondlab" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">The ReSPonD Lab</a></i>’s focus on pronunciation research, technologies, and data collection methods to prospective graduate students. September, 2022.
 
 <span style="color:grey">(2022)</span> **Reviewer**<br/>
 _Linguistic Portfolios,_ Vol. 11. <a href="https://repository.stcloudstate.edu/stcloud_ling/vol11/iss1/" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Journal Page</a>
