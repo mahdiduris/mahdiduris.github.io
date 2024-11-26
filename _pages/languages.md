@@ -33,7 +33,7 @@ Amount awarded: $400.
 <span style="color:grey">(2020)</span> **Global Online Course Mentorship Grant**<br/>
 Amount awarded: $100.
 
-<span style="color: #005700"> ## Travel Grants</span>
+<h2 style="color: #005700"> Travel Grants</h2>
 <span style="color:grey">(2024)</span> **Global Online Course Mentorship Professional Development Grant** to present at the 2nd Artificial Intelligence Research in Applied Linguistics Conference (AIRiAL), New York, US.<br/>
 Amount funded: $1,200.
 
@@ -44,6 +44,6 @@ Amount funded: $500.
 present at the 14th Annual Pronunciation in Second Language Learning and Teaching Conference (PSLLT), Indiana, US.<br/>
 Amount funded: $750.
 
-<span style="color: #005700"> ## Languages</span>
+<h2 style="color: #005700"> Languages</h2>
 (**Native**) English, French, and Spanish<br/>
 (**Beginner**) Arabic
