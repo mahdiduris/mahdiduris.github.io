@@ -14,7 +14,7 @@ In recognition of graduate students who have demonstrated excellence in teaching
 Amount awarded: $300
 
 **Global Online Course Mentorship Grant**<br/>
-<span style="color:grey">(2023)</span> Amount awarded: $1,000<br/>
+<span style="color:grey">(2024)</span> Amount awarded: $1,000<br/>
 <span style="color:grey">(2023)</span> Amount awarded: $500<br/>
 <span style="color:grey">(2022)</span> Amount awarded: $500<br/>
 <span style="color:grey">(2021)</span> Amount awarded: $400<br/>
