@@ -9,7 +9,7 @@ _Applied Linguistics Program at Iowa State University._<br/>
 Responsible for migration, redesign, and brand compliance of the Applied Linguistics Program website (apling.iastate.edu) into the Department of English (engl.iastate.edu). <a href="https://engl.iastate.edu/" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Main website</a>
 
 <span style="color: #005700">**Social Media Lead & Front-end Web Developer**</span> <span style="color:grey">(2022-<span style="color: #00ad00">Present</span>)</span><br/>
-Responsible for design, messaging, initiatives, and continuity.<br/>
+Responsible for design, communication, initiatives, and continuity.<br/>
 * _Applied Linguistics Program (ApLing) at Iowa State University._ <a href="https://apling.engl.iastate.edu/" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Main website</a> :: <a href="https://www.linkedin.com/company/isuaplingprogram/" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">LinkedIn</a> :: <a href="https://x.com/apling_iastate" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">𝕏 (Twitter)</a><br/>
 * _Technology for Second Language Learning Conference (TSLL)._ <a href="https://apling.engl.iastate.edu/conferences/technology-for-second-language-learning-conference/tsll-archive/" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Archive Page</a> :: <a href="https://www.linkedin.com/showcase/tsll/" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">LinkedIn</a> :: <a href="https://twitter.com/TSLL_iastate" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">𝕏 (Twitter)</a><br/>
 
@@ -28,9 +28,10 @@ _Applied Linguistics_, Oxford Academic. <a href="https://academic.oup.com/applij
 _The 11th International Symposium on the Acquisition of Second Language Speech (New Sounds 2025)._<br/>
 <a href="https://www.iastatedigitalpress.com/psllt/issue/1230/info/" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Event Page</a>
 
-<span style="color:grey">(2024)</span> **Organizing Committee Co-Chair & Webmaster**<br/>
-_21st Technology for Second Language Learning Conference (TSLL 2024)._<br/>
-October 24-26, 2024. In-person/ Online (Hybrid). <a href="https://apling.engl.iastate.edu/conferences/technology-for-second-language-learning-conference/tsll-2024/" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Event page</a>
+**Organizing Committee Co-Chair**<br/>
+<span style="color:grey">(2024)</span> _21st Technology for Second Language Learning Conference (TSLL 2024)._ October 24-26, 2024. In-person/ Online (Hybrid).<br/> <a href="https://apling.engl.iastate.edu/conferences/technology-for-second-language-learning-conference/tsll-2024/" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Event page</a><br/>
+<span style="color:grey">(2023)</span> _20th Technology for Second Language Learning conference (TSLL 2023)._ October 19-21, 2023. In-person/ Online (Hybrid).<br/> <a href="https://apling.engl.iastate.edu/conferences/technology-for-second-language-learning-conference/tsll-2023/" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Event page</a><br/>
+<span style="color:grey">(2022)</span> _19th Technology for Second Language Learning Conference (TSLL 2022)._ October 14-15, 2022. In-person/ Online (Hybrid).<br/> <a href="https://apling.engl.iastate.edu/conferences/technology-for-second-language-learning-conference/tsll-2022/" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Event page</a>
 
 <span style="color:grey">(2024)</span> **Organizing Committee Co-Chair & Webmaster**<br/>
 _15th annual Pronunciation in Second Language Learning and Teaching conference (PSLLT2024)._<br/>
