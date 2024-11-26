@@ -27,14 +27,17 @@ Iowa State University Graduate College **Teaching Excellence Award** (Fall 2024)
 <span style="color:grey">(2023)</span> Amount awarded: $500
 
 <h2 style="color: #005700"> Travel Grants</h2>
-**Global Online Course Mentorship Professional Development Grant** to present at the 2nd Artificial Intelligence Research in Applied Linguistics Conference (AIRiAL), New York, US.<br/>
+
+**Global Online Course Mentorship Professional Development Grant**<br/>
+Present at the 2nd Artificial Intelligence Research in Applied Linguistics Conference (AIRiAL), New York, US.<br/>
 <span style="color:grey">(2024)</span> Amount funded: $1,200
 
-**Department of English Travel Grant** to present at the 45th annual Southwest Popular/American Culture Association Conference (SWPACA), New Mexico, US.<br/>
+**Department of English Travel Grant**<br/>
+Present at the 45th annual Southwest Popular/American Culture Association Conference (SWPACA), New Mexico, US.<br/>
 <span style="color:grey">(2024)</span> Amount funded: $500
 
-**Global Online Course Mentorship Professional Development Grant** to
-present at the 14th Annual Pronunciation in Second Language Learning and Teaching Conference (PSLLT), Indiana, US.<br/>
+**Global Online Course Mentorship Professional Development Grant**<br/>
+Present at the 14th Annual Pronunciation in Second Language Learning and Teaching Conference (PSLLT), Indiana, US.<br/>
 <span style="color:grey">(2023)</span> Amount funded: $750
 
 <h2 style="color: #005700"> Languages</h2>
