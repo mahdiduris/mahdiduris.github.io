@@ -43,8 +43,12 @@ _Exploring AI in Applied Linguistics. Iowa State University Digital Press._ <a h
 _Proceedings for the 14th Annual Pronunciation in Second Language Learning and Teaching Conference (PSLLT 2023)._<br/>
 <a href="https://www.iastatedigitalpress.com/psllt/issue/1230/info/" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Journal Page</a>
 
-<span style="color:grey">(2024)</span> **Reviewer**<br/>
-_Linguistic Portfolios,_ Vol. 13. <a href="https://repository.stcloudstate.edu/stcloud_ling/vol13/iss1/1/" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Journal Page</a>
+**Reviewer**<br/>
+<span style="color:grey">(2024)</span> _Linguistic Portfolios,_ Vol. 13. <a href="https://repository.stcloudstate.edu/stcloud_ling/vol13/iss1/1/" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Journal Page</a><br/>
+<span style="color:grey">(2023)</span> _Linguistic Portfolios,_ Vol. 12. <a href="https://repository.stcloudstate.edu/stcloud_ling/vol12/iss1/" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Journal Page</a><br/>
+<span style="color:grey">(2022)</span> _Linguistic Portfolios,_ Vol. 11. <a href="https://repository.stcloudstate.edu/stcloud_ling/vol11/iss1/" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Journal Page</a><br/>
+<span style="color:grey">(2021)</span> _Linguistic Portfolios,_ Vol. 10. <a href="https://repository.stcloudstate.edu/stcloud_ling/vol10/iss1/" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Journal Page</a><br/>
+<span style="color:grey">(2020)</span> _Linguistic Portfolios,_ Vol. 9. <a href="https://repository.stcloudstate.edu/stcloud_ling/vol9/iss1/" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Journal Page</a><br/>
 
 <span style="color:grey">(2023)</span> **Organizing Committee Co-Chair & Webmaster**<br/>
 _20th Technology for Second Language Learning conference (TSLL 2023)._<br/>
