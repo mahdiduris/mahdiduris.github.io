@@ -5,46 +5,46 @@ permalink: /languages/
 author_profile: true
 ---
 
-### Awards and Internal Grants
-<span style="color:grey">(2024)</span> Iowa State University Graduate College _Teaching Excellence Award (Fall 2024)_<br/>
+## Awards and Internal Grants
+<span style="color:grey">(2024)</span> Iowa State University Graduate College **Teaching Excellence Award** (Fall 2024)<br/>
 In recognition of graduate students who have demonstrated excellence in teaching.
 
-<span style="color:grey">(2024)</span> _GPSS Dissertation Funds Grant_<br/>
+<span style="color:grey">(2024)</span> **Graduate and Professional Student Senate (GPSS) Dissertation Funds Grant**<br/>
 Amount awarded: $300.
 
-<span style="color:grey">(2024)</span> _Global Online Course Mentorship Grant_<br/>
+<span style="color:grey">(2024)</span> **Global Online Course Mentorship Grant**<br/>
 Amount awarded: $1,000.
 
-<span style="color:grey">(2023)</span> _English Department L2 Writing Research Rating_<br/>
+<span style="color:grey">(2023)</span> **English Department L2 Writing Research Rating**<br/>
 Amount awarded: $225.
 
-<span style="color:grey">(2023)</span> _Applied Linguistics & Technology Award (TSLL)_<br/>
+<span style="color:grey">(2023)</span> **Applied Linguistics & Technology Award (TSLL)**<br/>
 Amount awarded: $500.
 
-<span style="color:grey">(2023)</span> _Global Online Course Mentorship Grant_<br/>
+<span style="color:grey">(2023)</span> **Global Online Course Mentorship Grant**<br/>
 Amount awarded: $500.
 
-<span style="color:grey">(2022)</span> _Global Online Course Mentorship Grant_<br/>
+<span style="color:grey">(2022)</span> **Global Online Course Mentorship Grant**<br/>
 Amount awarded: $500.
 
-<span style="color:grey">(2021)</span> _Global Online Course Mentorship Grant_<br/>
+<span style="color:grey">(2021)</span> **Global Online Course Mentorship Grant**<br/>
 Amount awarded: $400.
 
-<span style="color:grey">(2020)</span> _Global Online Course Mentorship Grant_<br/>
+<span style="color:grey">(2020)</span> **Global Online Course Mentorship Grant**<br/>
 Amount awarded: $100.
 
-### Travel Grants
-<span style="color:grey">(2024)</span> _Global Online Course Mentorship Professional Development Grant_ for attending the 2nd Artificial Intelligence Research in Applied Linguistics (AIRiAL), New York, US.<br/>
+## Travel Grants
+<span style="color:grey">(2024)</span> **Global Online Course Mentorship Professional Development Grant** for attending the 2nd Artificial Intelligence Research in Applied Linguistics (AIRiAL), New York, US.<br/>
 Amount funded: $1,200.
 
-<span style="color:grey">(2024)</span> _Department of English Travel Grant_ for attending the 45th annual Southwest Popular/American Culture Association conference (SWPACA), New Mexico, US.<br/>
+<span style="color:grey">(2024)</span> **Department of English Travel Grant** for attending the 45th annual Southwest Popular/American Culture Association conference (SWPACA), New Mexico, US.<br/>
 Amount funded: $500.
 
-<span style="color:grey">(2023)</span> _Global Online Course Mentorship Professional Development Grant_ for
+<span style="color:grey">(2023)</span> **Global Online Course Mentorship Professional Development Grant** for
 attending the 14th Annual Pronunciation in Second Language Learning and Teaching conference
 (PSLLT), Indiana, US.<br/>
 Amount funded: $750.
 
-### Languages<br/>
+## Languages<br/>
 (**Native**) English, French, and Spanish<br/>
 (**Beginner**) Arabic
