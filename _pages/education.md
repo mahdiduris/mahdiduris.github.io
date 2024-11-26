@@ -7,7 +7,7 @@ author_profile: true
 
 
 
-**Iowa State University** <span style="color:grey">(Iowa, USA)</span><br/>
+<span style="color: #005700">**Iowa State University**</span> <span style="color:grey">(Iowa, USA)</span><br/>
 Ph.D. Candidate, Applied Linguistics and Technology (ALT) <span style="color:grey">(2020 — Present)</span>
 
 **Saint Cloud State University** <span style="color:grey">(Minnesota, USA)</span><br/>
