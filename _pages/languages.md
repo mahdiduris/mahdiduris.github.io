@@ -34,15 +34,14 @@ Amount awarded: $400.
 Amount awarded: $100.
 
 ## Travel Grants
-<span style="color:grey">(2024)</span> **Global Online Course Mentorship Professional Development Grant** for attending the 2nd Artificial Intelligence Research in Applied Linguistics (AIRiAL), New York, US.<br/>
+<span style="color:grey">(2024)</span> **Global Online Course Mentorship Professional Development Grant** to present at the 2nd Artificial Intelligence Research in Applied Linguistics Conference (AIRiAL), New York, US.<br/>
 Amount funded: $1,200.
 
-<span style="color:grey">(2024)</span> **Department of English Travel Grant** for attending the 45th annual Southwest Popular/American Culture Association conference (SWPACA), New Mexico, US.<br/>
+<span style="color:grey">(2024)</span> **Department of English Travel Grant** to present at the 45th annual Southwest Popular/American Culture Association Conference (SWPACA), New Mexico, US.<br/>
 Amount funded: $500.
 
-<span style="color:grey">(2023)</span> **Global Online Course Mentorship Professional Development Grant** for
-attending the 14th Annual Pronunciation in Second Language Learning and Teaching conference
-(PSLLT), Indiana, US.<br/>
+<span style="color:grey">(2023)</span> **Global Online Course Mentorship Professional Development Grant** to
+present at the 14th Annual Pronunciation in Second Language Learning and Teaching Conference (PSLLT), Indiana, US.<br/>
 Amount funded: $750.
 
 ## Languages<br/>
