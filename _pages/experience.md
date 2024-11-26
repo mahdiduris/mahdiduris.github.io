@@ -26,16 +26,16 @@ Iowa State University <span style="color:grey">(Aug. 2021 — <span style="color
 + Test administration every semester (Fall and Spring). <a href="https://apling.engl.iastate.edu/english-placement-test/" target="_blank" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Information Page</a><br/>
 <br/>
 
-**Co-teacher Oral Language & Technology** <span style="color:grey">(Iowa, USA)</span><br/>
-Iowa State University <span style="color:grey">(Aug. 2022 — Dec. 2022)</span><br/>
-+ ENGL 530 Teaching Assistant to <a href="https://faculty.sites.iastate.edu/jlevis/" target="_blank" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Dr. John M. Levis</a><br/>
-+ Course Objectives: Structure and description of oral language and discourse. How spoken language is linguistically described, analyzed, and taught for research and for education. Using technology to record, transcribe, and analyze spoken language at all levels of linguistic structure.<br/>
-<br/>
-
 **Graduate Teaching Assistant** <span style="color:grey">(Iowa, USA)</span><br/>
 Iowa State University <span style="color:grey">(Aug. 2020 — July 2024)</span><br/>
 + Instructor for ENGL 1010B, 1010C, and 1010D: <a href="https://apling.engl.iastate.edu/esl-courses/" target="_blank" style="color: black; text-decoration: underline;text-decoration-style: dotted;">English for Native Speakers of Other Languages: Academic English</a><br/>
 + Instructor for SP CM 2120: <a href="https://engl.iastate.edu/isucomm/speech-communication/" target="_blank" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Fundamentals of Public Speaking</a><br/>
+<br/>
+
+**Co-teacher Oral Language & Technology** <span style="color:grey">(Iowa, USA)</span><br/>
+Iowa State University <span style="color:grey">(Aug. 2022 — Dec. 2022)</span><br/>
++ ENGL 5300 Teaching Assistant to <a href="https://faculty.sites.iastate.edu/jlevis/" target="_blank" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Dr. John M. Levis</a><br/>
++ Course Objectives: Structure and description of oral language and discourse. How spoken language is linguistically described, analyzed, and taught for research and for education. Using technology to record, transcribe, and analyze spoken language at all levels of linguistic structure.<br/>
 <br/>
 
 **Global Online Course Mentor** <span style="color:grey">(Iowa, USA)</span><br/>
