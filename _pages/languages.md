@@ -5,7 +5,7 @@ permalink: /languages/
 author_profile: true
 ---
 
-<span style="color: #005700"> ## Awards and Internal Grants</span>
+<h2 style="color: #005700"> Awards and Internal Grants</h2>
 <span style="color:grey">(2024)</span> Iowa State University Graduate College **Teaching Excellence Award** (Fall 2024)<br/>
 In recognition of graduate students who have demonstrated excellence in teaching.
 
