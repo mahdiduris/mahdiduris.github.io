@@ -13,8 +13,8 @@ Responsible for design, messaging, initiatives, and continuity.<br/>
 * _Applied Linguistics Program (ApLing) at Iowa State University._ <a href="https://apling.engl.iastate.edu/" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Main website</a> :: <a href="https://www.linkedin.com/company/isuaplingprogram/" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">LinkedIn</a> :: <a href="https://x.com/apling_iastate" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">𝕏 (Twitter)</a><br/>
 * _Technology for Second Language Learning Conference (TSLL)._ <a href="https://apling.engl.iastate.edu/conferences/technology-for-second-language-learning-conference/tsll-archive/" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Archive Page</a> :: <a href="https://www.linkedin.com/showcase/tsll/" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">LinkedIn</a> :: <a href="https://twitter.com/TSLL_iastate" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">𝕏 (Twitter)</a><br/>
 
-<span style="color:grey">(2025)</span> **Co-editor**<br/>
-_The Proceedings of the 15th Pronunciation in Second Language Learning and Teaching Conference (PSLLT 2024)._<br/>
+<span style="color:grey">(2025)</span> **Proceedings Co-editor**<br/>
+_Proceedings of the 15th Pronunciation in Second Language Learning and Teaching Conference (PSLLT 2024)._<br/>
 Forthcoming publication, June 2025. <a href="https://www.iastatedigitalpress.com/psllt/editorialteam/" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Proceedings Page</a>
 
 <span style="color:grey">(2025)</span> **Assistant Editor**<br/>
