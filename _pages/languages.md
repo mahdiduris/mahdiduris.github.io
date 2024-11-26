@@ -5,10 +5,9 @@ permalink: /languages/
 author_profile: true
 ---
 
-#### Awards and Internal Grants
+### Awards and Internal Grants
 <span style="color:grey">(2024)</span> Iowa State University Graduate College _Teaching Excellence Award (Fall 2024)_<br/>
 In recognition of graduate students who have demonstrated excellence in teaching.
-
 
 <span style="color:grey">(2024)</span> _GPSS Dissertation Funds Grant_<br/>
 Amount awarded: $300.
@@ -34,7 +33,7 @@ Amount awarded: $400.
 <span style="color:grey">(2020)</span> _Global Online Course Mentorship Grant_<br/>
 Amount awarded: $100.
 
-#### Travel Grants
+### Travel Grants
 <span style="color:grey">(2024)</span> _Global Online Course Mentorship Professional Development Grant_ for attending the 2nd Artificial Intelligence Research in Applied Linguistics (AIRiAL), New York, US.<br/>
 Amount funded: $1,200.
 
@@ -46,6 +45,6 @@ attending the 14th Annual Pronunciation in Second Language Learning and Teaching
 (PSLLT), Indiana, US.<br/>
 Amount funded: $750.
 
-#### Languages<br/>
+### Languages<br/>
 (**Native**) English, French, and Spanish<br/>
 (**Beginner**) Arabic
