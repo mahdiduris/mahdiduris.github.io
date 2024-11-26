@@ -34,8 +34,8 @@ Iowa State University <span style="color:grey">(Aug. 2022 — Dec. 2022)</span><
 
 **Graduate Teaching Assistant** <span style="color:grey">(Iowa, USA)</span><br/>
 Iowa State University <span style="color:grey">(Aug. 2020 — July 2024)</span><br/>
-+ Instructor for ENGL 1010B, 1010C & 1010D: <a href="https://apling.engl.iastate.edu/esl-courses/" target="_blank" style="color: black; text-decoration: underline;text-decoration-style: dotted;">English for Native Speakers of Other Languages: Academic English</a><br/>
-+ Instructor for SP CM 212: <a href="https://engl.iastate.edu/isucomm/speech-communication/" target="_blank" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Fundamentals of Public Speaking</a><br/>
++ Instructor for ENGL 1010B, 1010C, and 1010D: <a href="https://apling.engl.iastate.edu/esl-courses/" target="_blank" style="color: black; text-decoration: underline;text-decoration-style: dotted;">English for Native Speakers of Other Languages: Academic English</a><br/>
++ Instructor for SP CM 2120: <a href="https://engl.iastate.edu/isucomm/speech-communication/" target="_blank" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Fundamentals of Public Speaking</a><br/>
 <br/>
 
 **Global Online Course Mentor** <span style="color:grey">(Iowa, USA)</span><br/>
