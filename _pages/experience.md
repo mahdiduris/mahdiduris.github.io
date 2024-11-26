@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 **Graduate Research Assistant** <span style="color:grey">(Iowa, USA)</span><br/>
-Iowa State University <span style="color:grey">(Jan. 2022 — Present)</span><br/>
+Iowa State University <span style="color:grey">(Jan. 2022 — <span style="color: #00ad00">Present</span>)</span><br/>
 + Research Assistant to <a href="https://faculty.sites.iastate.edu/jlevis/" target="_blank" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Dr. John M. Levis</a><br/>
 + Project: Adaptive explicit and implicit feedback in second language pronunciation training<br/>
 + Research funded by the National Science Foundation (2020)<br/>
@@ -14,14 +14,14 @@ Iowa State University <span style="color:grey">(Jan. 2022 — Present)</span><br
 <br/>
 
 **Graduate Research Assistant** <span style="color:grey">(Iowa, USA)</span><br/>
-Iowa State University <span style="color:grey">(June 2022 — Present)</span><br/>
+Iowa State University <span style="color:grey">(June 2022 — <span style="color: #00ad00">Present</span>)</span><br/>
 + Research Assistant to <a href="https://engl.iastate.edu/directory/volker-hegelheimer/" target="_blank" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Dr. Volker Hegelheimer</a><br/>
 + Project: Using educational technology in the English language classroom<br/>
 + Research funded by the U.S. Department of State (2020)<br/>
 <br/>
 
 **English Placement Test Rater** <span style="color:grey">(Iowa, USA)</span><br/>
-Iowa State University <span style="color:grey">(Aug. 2021 — Present)</span><br/>
+Iowa State University <span style="color:grey">(Aug. 2021 — <span style="color: #00ad00">Present</span>)</span><br/>
 + Assess the oral communication ability of international students for academic contexts
 + Test administration every semester (Fall and Spring). <a href="https://apling.engl.iastate.edu/english-placement-test/" target="_blank" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Information Page</a><br/>
 <br/>
