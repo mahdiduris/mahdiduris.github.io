@@ -25,7 +25,7 @@ Forthcoming publication, July 2025.
 _Applied Linguistics_, Oxford Academic. <a href="https://academic.oup.com/applij" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Journal Page</a>
 
 <span style="color:grey">(2024)</span> **Linguistics Program Outreach**<br/>
-Doctoral representative for _The College of Liberal Arts and Sciences (LAS)_<br/>
+Doctoral representative for _The College of Liberal Arts and Sciences (LAS)._<br/>
 Represented the Graduate program by teaching over 130 high school students about the Linguistics major at Iowa State University. November 14th, Ames, IA.
 <a href="https://www.linkedin.com/feed/update/urn:li:activity:7264347883020124160/" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Event Page</a>
 
@@ -58,6 +58,10 @@ _Proceedings for the 14th Annual Pronunciation in Second Language Learning and T
 <span style="color:grey">(2022)</span> _Linguistic Portfolios,_ Vol. 11. <a href="https://repository.stcloudstate.edu/stcloud_ling/vol11/iss1/" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Journal Page</a><br/>
 <span style="color:grey">(2021)</span> _Linguistic Portfolios,_ Vol. 10. <a href="https://repository.stcloudstate.edu/stcloud_ling/vol10/iss1/" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Journal Page</a><br/>
 <span style="color:grey">(2020)</span> _Linguistic Portfolios,_ Vol. 9. <a href="https://repository.stcloudstate.edu/stcloud_ling/vol9/iss1/" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Journal Page</a><br/>
+
+<span style="color:grey">(2023)</span> **Graduate Studies Committee (GSC)**<br/>
+_Applied Linguistics area_ graduate student representative for AY 2023-2024.<br/>
+Partnered with Graduate Program directors and faculty area coordinators in program policy changes and updates.
 
 <span style="color:grey">(2023)</span> **Peer Mentor**<br/>
 _Department of English, Peer Advisory Resource Team (PART)._<br/>
