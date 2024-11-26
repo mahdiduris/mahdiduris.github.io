@@ -29,9 +29,12 @@ _The 11th International Symposium on the Acquisition of Second Language Speech (
 <a href="https://www.iastatedigitalpress.com/psllt/issue/1230/info/" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Event Page</a>
 
 **Organizing Committee Co-Chair**<br/>
-<span style="color:grey">(2024)</span> _21st Technology for Second Language Learning Conference (TSLL 2024)._ October 24-26, 2024. In-person/ Online (Hybrid).<br/> <a href="https://apling.engl.iastate.edu/conferences/technology-for-second-language-learning-conference/tsll-2024/" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Event page</a><br/>
-<span style="color:grey">(2023)</span> _20th Technology for Second Language Learning conference (TSLL 2023)._ October 19-21, 2023. In-person/ Online (Hybrid).<br/> <a href="https://apling.engl.iastate.edu/conferences/technology-for-second-language-learning-conference/tsll-2023/" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Event page</a><br/>
-<span style="color:grey">(2022)</span> _19th Technology for Second Language Learning Conference (TSLL 2022)._ October 14-15, 2022. In-person/ Online (Hybrid).<br/> <a href="https://apling.engl.iastate.edu/conferences/technology-for-second-language-learning-conference/tsll-2022/" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Event page</a>
+<span style="color:grey">(2024)</span> _21st Technology for Second Language Learning Conference (TSLL 2024)._ October 24-26, 2024.<br/> 
+In-person/ Online (Hybrid). <a href="https://apling.engl.iastate.edu/conferences/technology-for-second-language-learning-conference/tsll-2024/" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Event page</a><br/>
+<span style="color:grey">(2023)</span> _20th Technology for Second Language Learning conference (TSLL 2023)._ October 19-21, 2023.<br/>
+In-person/ Online (Hybrid). <a href="https://apling.engl.iastate.edu/conferences/technology-for-second-language-learning-conference/tsll-2023/" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Event page</a><br/>
+<span style="color:grey">(2022)</span> _19th Technology for Second Language Learning Conference (TSLL 2022)._ October 14-15, 2022.<br/>
+In-person/ Online (Hybrid). <a href="https://apling.engl.iastate.edu/conferences/technology-for-second-language-learning-conference/tsll-2022/" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Event page</a>
 
 <span style="color:grey">(2024)</span> **Organizing Committee Co-Chair & Webmaster**<br/>
 _15th annual Pronunciation in Second Language Learning and Teaching conference (PSLLT2024)._<br/>
