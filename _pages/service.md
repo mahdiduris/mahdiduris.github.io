@@ -24,6 +24,11 @@ Forthcoming publication, July 2025.
 <span style="color:grey">(2024)</span> **Reviewer**<br/>
 _Applied Linguistics_, Oxford Academic. <a href="https://academic.oup.com/applij" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Journal Page</a>
 
+<span style="color:grey">(2024)</span> **Linguistics Program Outreach**<br/>
+Doctoral representative for _The College of Liberal Arts and Sciences (LAS)_<br/>
+Represented the Graduate program by teaching over 130 high school students about the Linguistics major at Iowa State University. November 14th, Ames, IA.
+<a href="https://www.linkedin.com/feed/update/urn:li:activity:7264347883020124160/" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Event Page</a>
+
 <span style="color:grey">(2024)</span> **Reviewer**<br/>
 _The 11th International Symposium on the Acquisition of Second Language Speech (New Sounds 2025)._<br/>
 <a href="https://www.iastatedigitalpress.com/psllt/issue/1230/info/" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Event Page</a>
