@@ -39,19 +39,3 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
-
-body {
-  position: relative;
-  z-index: 1; /* Bring content in front of particles background */
-  padding-top: 50px; /* Adjust as necessary */
-}
-
-#particles-js {
-  position: fixed;
-  width: 100%;
-  height: 100%;
-  top: 0;
-  left: 0;
-  z-index: -1; /* Puts the particle effect behind the content */
-  background-color: #000; /* Optional: Set a background color, adjust or remove as needed */
-}
