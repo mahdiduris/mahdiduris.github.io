@@ -8,16 +8,17 @@ author_profile: true
 <span style="color: #005700">**Graduate Research Assistant**</span> <span style="color:grey">(Iowa, USA)</span><br/>
 Iowa State University <span style="color:grey">(Jan. 2022 — <span style="color: #00ad00">Present</span>)</span><br/>
 + Research Assistant to <a href="https://faculty.sites.iastate.edu/jlevis/" target="_blank" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Dr. John M. Levis</a><br/>
-+ Project: Adaptive explicit and implicit feedback in second language pronunciation training<br/>
-+ Research funded by the National Science Foundation (2020)<br/>
+  + Project: Adaptive explicit and implicit feedback in second language pronunciation training<br/>
+  + Research funded by the National Science Foundation (2020)<br/>
+  + Mentor for two undergraduate research assistants: <a href="https://www.linkedin.com/in/jacobjkruse/" target="_blank" style="color: black; text-decoration: underline;text-decoration-style: dotted;"><i>Jacob Kruse</i></a> | <a href="https://www.linkedin.com/in/sara-lastine-aa3154203/" target="_blank" style="color: black; text-decoration: underline;text-decoration-style: dotted;"><i>Sara Lastine</i></a><br/>
 + <i><a href="https://bit.ly/respondlab" target="_blank" style="color: black; text-decoration: underline;text-decoration-style: dotted;">The ReSPonD Lab</a></i> Coordinator
 <br/>
 
 <span style="color: #005700">**Graduate Research Assistant**</span> <span style="color:grey">(Iowa, USA)</span><br/>
 Iowa State University <span style="color:grey">(June 2022 — <span style="color: #00ad00">Present</span>)</span><br/>
 + Research Assistant to <a href="https://engl.iastate.edu/directory/volker-hegelheimer/" target="_blank" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Dr. Volker Hegelheimer</a><br/>
-+ Project: Using educational technology in the English language classroom<br/>
-+ Research funded by the U.S. Department of State (2020)<br/>
+  + Project: Using educational technology in the English language classroom<br/>
+  + Research funded by the U.S. Department of State (2020)<br/>
 <br/>
 
 <span style="color: #005700">**English Placement Test Rater**</span> <span style="color:grey">(Iowa, USA)</span><br/>
@@ -35,7 +36,7 @@ Iowa State University <span style="color:grey">(Aug. 2020 — July 2024)</span><
 **Co-teacher Oral Language & Technology** <span style="color:grey">(Iowa, USA)</span><br/>
 Iowa State University <span style="color:grey">(Aug. 2022 — Dec. 2022)</span><br/>
 + ENGL 5300 Teaching Assistant to <a href="https://faculty.sites.iastate.edu/jlevis/" target="_blank" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Dr. John M. Levis</a><br/>
-+ Course Objectives: Structure and description of oral language and discourse. How spoken language is linguistically described, analyzed, and taught for research and for education. Using technology to record, transcribe, and analyze spoken language at all levels of linguistic structure.<br/>
+  + Course Objectives: Structure and description of oral language and discourse. How spoken language is linguistically described, analyzed, and taught for research and for education. Using technology to record, transcribe, and analyze spoken language at all levels of linguistic structure.<br/>
 <br/>
 
 **Global Online Course Mentor** <span style="color:grey">(Iowa, USA)</span><br/>
