@@ -10,7 +10,7 @@ Iowa State University <span style="color:grey">(Jan. 2022 — <span style="color
 + Research Assistant to <a href="https://faculty.sites.iastate.edu/jlevis/" target="_blank" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Dr. John M. Levis</a><br/>
   + Project: Adaptive explicit and implicit feedback in second language pronunciation training<br/>
   + Research funded by the National Science Foundation (2020)<br/>
-  + Mentor for two undergraduate research assistants: <a href="https://www.linkedin.com/in/jacobjkruse/" target="_blank" style="color: black; text-decoration: underline;text-decoration-style: dotted;"><i>Jacob Kruse</i></a> | <a href="https://www.linkedin.com/in/sara-lastine-aa3154203/" target="_blank" style="color: black; text-decoration: underline;text-decoration-style: dotted;"><i>Sara Lastine</i></a><br/>
+  + Mentor for two undergraduate research assistants: <a href="https://www.linkedin.com/in/jacobjkruse/" target="_blank" style="color: black; text-decoration: underline;text-decoration-style: dotted;"><i>Jacob Kruse</i></a> :: <a href="https://www.linkedin.com/in/sara-lastine-aa3154203/" target="_blank" style="color: black; text-decoration: underline;text-decoration-style: dotted;"><i>Sara Lastine</i></a><br/>
 + <i><a href="https://bit.ly/respondlab" target="_blank" style="color: black; text-decoration: underline;text-decoration-style: dotted;">The ReSPonD Lab</a></i> Coordinator
 <br/>
 
