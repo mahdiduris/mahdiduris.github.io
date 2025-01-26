@@ -5,9 +5,17 @@ permalink: /publications/
 author_profile: true
 ---
 
+## ChatGPT in ESL Writing: L2 Learners’ Perspectives<br/>
+
+Na, I., **Duris, M.**, Hegelheimer, V. (Forthcoming). ChatGPT in ESL Writing: L2 Learners’ Perspectives. In C. A. Chapelle, G. H. Beckett, B. Gray (Eds.), _Researching Generative AI in Applied Linguistics_. Iowa State University Digital Press. (manuscript under review)<br/>
+
+## Comparing Human and Generative AI Analysis of Emotions in U.S. Abortion Tweets<br/>
+
+Kurt, Ş., & **Duris, M.** (Forthcoming). Comparing Human and Generative AI Analysis of Emotions in U.S. Abortion Tweets. In C. A. Chapelle, G. H. Beckett, B. Gray (Eds.), _Researching Generative AI in Applied Linguistics_. Iowa State University Digital Press. (manuscript under review)<br/>
+
 ## Feedback and Automated Writing Evaluation<br/>
 
-Na, I., **Duris, M.**, Hegelheimer, V. (Forthcoming). Feedback and Automated Writing Evaluation. In Nunan, D. & Stockwell, G. (Ed.). _Insights into AI and Language Teaching and Learning_. Castledown (invited chapter; manuscript under review)<br/>
+Na, I., **Duris, M.**, Hegelheimer, V. (Forthcoming). Feedback and Automated Writing Evaluation. In D. Nunan & G. Stockwell (Eds.), _Insights into AI and Language Teaching and Learning_. Castledown (invited chapter; manuscript under review)<br/>
 
 ## Longitudinal perception and production development of second language vowels<br/>
 
