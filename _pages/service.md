@@ -18,7 +18,7 @@ Open Educational Book — _Researching the Language and Use of Generative AI._<b
 Forthcoming publication, July 2025.
 
 <span style="color:grey">(2024)</span> **Reviewer**<br/>
-_Applied Linguistics_, Oxford Academic. <a href="https://academic.oup.com/applij" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Journal Page</a> :: <a href="https://widgets.figshare.com/articles/28282184/embed?show_title=1" width="568" height="351" allowfullscreen frameborder="0"" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Certificate</a>
+_Applied Linguistics_, Oxford Academic. <a href="https://academic.oup.com/applij" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Journal Page</a> :: <a href="https://bit.ly/aplxjournalcertduris" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Certificate</a>
 
 <span style="color:grey">(2024)</span> **Linguistics Program Outreach**<br/>
 Doctoral representative for _The College of Liberal Arts and Sciences (LAS)._<br/>
