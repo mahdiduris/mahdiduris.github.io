@@ -41,7 +41,7 @@ Iowa State University <span style="color:grey">(Aug. 2022 — Dec. 2022)</span><
 
 **Global Online Course Mentor** <span style="color:grey">(Iowa, USA)</span><br/>
 Iowa State University <span style="color:grey">(Aug. 2020 — May 2022)</span><br/>
-+ Mentor for the Online Professional English Network <a href="https://www.openenglishprograms.org/dtawc" target="_blank" style="color: black; text-decoration: underline;text-decoration-style: dotted;">(OPEN)</a>, previously knowm as American English (AE) E-Teacher Program, sponsored by the U.S. Department of State and administered by FHI 360<br/>
++ Mentor for the Online Professional English Network <a href="https://www.openenglishprograms.org/dtawc" target="_blank" style="color: black; text-decoration: underline;text-decoration-style: dotted;">(OPEN)</a>, previously known as American English (AE) E-Teacher Program, sponsored by the U.S. Department of State and administered by FHI 360<br/>
 <br/>
 
 **Graduate Teaching Assistant** <span style="color:grey">(Minnesota, USA)</span><br/>
