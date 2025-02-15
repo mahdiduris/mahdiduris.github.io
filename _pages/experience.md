@@ -35,13 +35,13 @@ Iowa State University <span style="color:grey">(Aug. 2020 — July 2024)</span><
 
 **Co-teacher Oral Language & Technology** <span style="color:grey">(Iowa, USA)</span><br/>
 Iowa State University <span style="color:grey">(Aug. 2022 — Dec. 2022)</span><br/>
-+ ENGL 5300 Teaching Assistant to <a href="https://faculty.sites.iastate.edu/jlevis/" target="_blank" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Dr. John M. Levis</a><br/>
++ ENGL/LING 530 Teaching Assistant to <a href="https://faculty.sites.iastate.edu/jlevis/" target="_blank" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Dr. John M. Levis</a><br/>
   + Course Objectives: Structure and description of oral language and discourse. How spoken language is linguistically described, analyzed, and taught for research and for education. Using technology to record, transcribe, and analyze spoken language at all levels of linguistic structure.<br/>
 <br/>
 
 **Global Online Course Mentor** <span style="color:grey">(Iowa, USA)</span><br/>
 Iowa State University <span style="color:grey">(Aug. 2020 — May 2022)</span><br/>
-+ Mentor for the Online Professional English Network <a href="https://www.openenglishprograms.org/dtawc" target="_blank" style="color: black; text-decoration: underline;text-decoration-style: dotted;">(OPEN)</a>, previously knows as American English (AE) E-Teacher Program, sponsored by the U.S. Department of State and administered by FHI 360<br/>
++ Mentor for the Online Professional English Network <a href="https://www.openenglishprograms.org/dtawc" target="_blank" style="color: black; text-decoration: underline;text-decoration-style: dotted;">(OPEN)</a>, previously knowm as American English (AE) E-Teacher Program, sponsored by the U.S. Department of State and administered by FHI 360<br/>
 <br/>
 
 **Graduate Teaching Assistant** <span style="color:grey">(Minnesota, USA)</span><br/>
