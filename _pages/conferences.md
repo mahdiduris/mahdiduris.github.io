@@ -4,6 +4,10 @@ title: "Conferences"
 permalink: /conferences/
 author_profile: true
 ---
+<span style="color:grey">(2025)</span> **The Road Ahead: ALT Students' Professional Development Experiences**<br/>
+Invited presentation for the Iowa State University ALT Brown Bag Series, Ames, IA, US.<br/>
+In-person. <a href="https://mahdiduris.com/files/ProfDevALT_21Feb2025.png" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Flyer</a>
+
 <span style="color:grey">(2024)</span> **Comparing Human and Generative AI Analysis of Emotions in U.S. Abortion Tweets**<br/>
 Paper presented at the 21st Annual Technology for Second Language Learning (TSLL) Conference, Ames, IA, US.<br/>
 In-person. <a href="https://mahdiduris.com/files/TSLL-Program-Book-2024.pdf" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Program</a>
