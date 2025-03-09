@@ -19,7 +19,7 @@ Iowa State University <span style="color:grey">(June 2022 — <span style="color
 + Research Assistant to <a href="https://engl.iastate.edu/directory/volker-hegelheimer/" target="_blank" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Dr. Volker Hegelheimer</a><br/>
   + Project: Using educational technology in the English language classroom<br/>
   + Research funded by the U.S. Department of State (2020)<br/>
-<br/>
+  + Mentor to an undergraduate research assistant: <a href="https://www.linkedin.com/in/delaney-clark-5794722b0/" target="_blank" style="color: black; text-decoration: underline;text-decoration-style: dotted;"><i>Delaney Clark</i></a><br/>
 
 <span style="color: #005700">**English Placement Test Rater**</span> <span style="color:grey">(Iowa, USA)</span><br/>
 Iowa State University <span style="color:grey">(Aug. 2021 — <span style="color: #00ad00">Present</span>)</span><br/>
