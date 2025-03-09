@@ -10,7 +10,7 @@ Iowa State University <span style="color:grey">(Jan. 2022 — <span style="color
 + Research Assistant to <a href="https://faculty.sites.iastate.edu/jlevis/" target="_blank" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Dr. John M. Levis</a><br/>
   + Project: Adaptive explicit and implicit feedback in second language pronunciation training<br/>
   + Research funded by the National Science Foundation (2020)<br/>
-  + Mentor for two undergraduate research assistants: <a href="https://www.linkedin.com/in/jacobjkruse/" target="_blank" style="color: black; text-decoration: underline;text-decoration-style: dotted;"><i>Jacob Kruse</i></a> :: <a href="https://www.linkedin.com/in/sara-lastine-aa3154203/" target="_blank" style="color: black; text-decoration: underline;text-decoration-style: dotted;"><i>Sara Lastine</i></a><br/>
+  + Mentor to two undergraduate research assistants: <a href="https://www.linkedin.com/in/jacobjkruse/" target="_blank" style="color: black; text-decoration: underline;text-decoration-style: dotted;"><i>Jacob Kruse</i></a> :: <a href="https://www.linkedin.com/in/sara-lastine-aa3154203/" target="_blank" style="color: black; text-decoration: underline;text-decoration-style: dotted;"><i>Sara Lastine</i></a><br/>
 + <i><a href="https://bit.ly/respondlab" target="_blank" style="color: black; text-decoration: underline;text-decoration-style: dotted;">The ReSPonD Lab</a></i> Coordinator
 <br/>
 
@@ -23,7 +23,7 @@ Iowa State University <span style="color:grey">(June 2022 — <span style="color
 
 <span style="color: #005700">**English Placement Test Rater**</span> <span style="color:grey">(Iowa, USA)</span><br/>
 Iowa State University <span style="color:grey">(Aug. 2021 — <span style="color: #00ad00">Present</span>)</span><br/>
-+ Assess the oral communication ability of international students for academic contexts
++ Assess the oral communication ability of international students in academic contexts
 + Test administration every semester (Fall and Spring). <a href="https://apling.engl.iastate.edu/english-placement-test/" target="_blank" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Information Page</a><br/>
 <br/>
 
