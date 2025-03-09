@@ -7,19 +7,20 @@ author_profile: true
 
 ## ChatGPT in ESL Writing: L2 Learners’ Perspectives<br/>
 
-Na, I., **Duris, M.**, Hegelheimer, V. (Forthcoming). ChatGPT in ESL Writing: L2 Learners’ Perspectives. In C. A. Chapelle, G. H. Beckett, & B. Gray (Eds.), _Researching Generative AI in Applied Linguistics_. Iowa State University Digital Press. (manuscript under review)<br/>
+Na, I., **Duris, M.**, Hegelheimer, V. (Forthcoming). ChatGPT in ESL Writing: L2 Learners’ Perspectives. In C. A. Chapelle, G. H. Beckett, & B. Gray (Eds.), _Researching Generative AI in Applied Linguistics_. Iowa State University Digital Press. (manuscript accepted, under revision)<br/>
 
 ## Comparing Human and Generative AI Analysis of Emotions in U.S. Abortion Tweets<br/>
 
-Kurt, Ş., & **Duris, M.** (Forthcoming). Comparing Human and Generative AI Analysis of Emotions in U.S. Abortion Tweets. In C. A. Chapelle, G. H. Beckett, & B. Gray (Eds.), _Researching Generative AI in Applied Linguistics_. Iowa State University Digital Press. (manuscript under review)<br/>
-
-## Feedback and Automated Writing Evaluation<br/>
-
-Na, I., **Duris, M.**, Hegelheimer, V. (Forthcoming). Feedback and Automated Writing Evaluation. In D. Nunan & G. Stockwell (Eds.), _Insights into AI and Language Teaching and Learning_. Castledown (invited chapter; manuscript under review)<br/>
+Kurt, Ş., & **Duris, M.** (Forthcoming). Comparing Human and Generative AI Analysis of Emotions in U.S. Abortion Tweets. In C. A. Chapelle, G. H. Beckett, & B. Gray (Eds.), _Researching Generative AI in Applied Linguistics_. Iowa State University Digital Press. (manuscript accepted, under revision)<br/>
 
 ## Longitudinal perception and production development of second language vowels<br/>
 
 Na, I., Nagle, N., **Duris, M.**, Kurt, S., Levis, J., & Rehman, I. (Forthcoming). Longitudinal perception and production development of second language vowels. _Language and Speech_. Sage Publications (manuscript under review)<br/>
+
+## Feedback and Automated Writing Evaluation (AWE)<br/>
+
+Na, I., **Duris, M.**, Hegelheimer, V. (2025). Feedback and Automated Writing Evaluation (AWE). In Y. Wang, A. Alm, & G. Dizon (Eds.), _Insights into AI and Language Teaching and Learning_. Castledown (invited chapter; pre-order)<br/>
+<a href="https://castledown.online/reference/9781763711600/" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Accessible here</a>
 
 ## Methodological Influences on Word Stress Identification: Implications for Research and Teaching<br/>
 
