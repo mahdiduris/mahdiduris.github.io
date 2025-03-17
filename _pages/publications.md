@@ -7,11 +7,11 @@ author_profile: true
 
 ## ChatGPT in ESL Writing: L2 Learners’ Perspectives<br/>
 
-Na, I., **Duris, M.**, & Hegelheimer, V. (Forthcoming). ChatGPT in ESL Writing: L2 Learners’ Perspectives. In C. A. Chapelle, G. H. Beckett, & B. Gray (Eds.), _Researching Generative AI in Applied Linguistics_. Iowa State University Digital Press. (manuscript accepted, under revision)<br/>
+Na, I., **Duris, M.**, & Hegelheimer, V. (Forthcoming). ChatGPT in ESL writing: L2 learners’ perspectives. In C. A. Chapelle, G. H. Beckett, & B. Gray (Eds.), _Researching Generative AI in Applied Linguistics_. Iowa State University Digital Press. (manuscript accepted, under revision)<br/>
 
 ## Comparing Human and Generative AI Analysis of Emotions in U.S. Abortion Tweets<br/>
 
-Kurt, Ş., & **Duris, M.** (Forthcoming). Comparing Human and Generative AI Analysis of Emotions in U.S. Abortion Tweets. In C. A. Chapelle, G. H. Beckett, & B. Gray (Eds.), _Researching Generative AI in Applied Linguistics_. Iowa State University Digital Press. (manuscript accepted, under revision)<br/>
+Kurt, Ş., & **Duris, M.** (Forthcoming). Comparing human and Generative AI analysis of emotions in U.S. abortion tweets. In C. A. Chapelle, G. H. Beckett, & B. Gray (Eds.), _Researching Generative AI in Applied Linguistics_. Iowa State University Digital Press. (manuscript accepted, under revision)<br/>
 
 ## Longitudinal perception and production development of second language vowels<br/>
 
@@ -24,7 +24,7 @@ Na, I., **Duris, M.**, & Hegelheimer, V. (2025). Feedback and Automated Writing 
 
 ## Methodological Influences on Word Stress Identification: Implications for Research and Teaching<br/>
 
-**Duris, M.**, Levis, J. M., Neiriz, R., & Silpachai, A. O. (2024). Methodological Influences on Word Stress Identification: Implications for Research and Teaching.<br/>_Proceedings of Speech Prosody 2024, Leiden, The Netherlands: International Speech Communication Association, 2024, p. 732-736_. doi: 10.21437/SpeechProsody.2024-148<br/>
+**Duris, M.**, Levis, J. M., Neiriz, R., & Silpachai, A. O. (2024). Methodological influences on word stress identification: Implications for research and teaching.<br/>_Proceedings of Speech Prosody 2024, Leiden, The Netherlands: International Speech Communication Association, 2024, p. 732-736_. doi: 10.21437/SpeechProsody.2024-148<br/>
 <a href="https://www.isca-archive.org/speechprosody_2024/duris24_speechprosody.pdf" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Accessible here</a>
 
 ## Accentedness and Intelligibility: The typical phonetic story of an Lx couple in the US<br/>
