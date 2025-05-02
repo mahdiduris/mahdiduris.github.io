@@ -4,6 +4,10 @@ title: "Conferences"
 permalink: /conferences/
 author_profile: true
 ---
+<span style="color:grey">(2025)</span> **ISU IGNITE Innovation Showcase: Dear ChatGPT, Fix My Essay... But Make It <i>Me</i> (Language at Work)**<br/>
+Invited technology showcase for the Iowa State University annual IGNITE Innovation event, Ames, IA, US.<br/>
+In-person. <a href="https://sictr.iastate.edu/programs-events/ignite-showcase/" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Program</a>
+
 <span style="color:grey">(2025)</span> **The Road Ahead: ALT Students' Professional Development Experiences**<br/>
 Invited presentation for the Iowa State University ALT Brown Bag Series, Ames, IA, US.<br/>
 In-person. <a href="https://mahdiduris.com/files/ProfDevALT_21Feb2025.png" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Flyer</a>
