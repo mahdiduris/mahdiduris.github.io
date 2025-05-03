@@ -20,7 +20,7 @@ Na, I., Nagle, N., **Duris, M.**, Kurt, S., Levis, J., & Rehman, I. (Forthcoming
 ## Feedback and Automated Writing Evaluation (AWE)<br/>
 
 Na, I., **Duris, M.**, & Hegelheimer, V. (2025). Feedback and Automated Writing Evaluation (AWE). In Y. Wang, A. Alm, & G. Dizon (Eds.), _Insights into AI and Language Teaching and Learning_ (pp. 290-313). Castledown. doi: 10.29140/9781763711600-16<br/>
-<a href="https://www.researchgate.net/publication/391389745_Feedback_and_Automated_Writing_Evaluation_AWE/link/68148678bfbe974b23c1c299/download" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Accessible here</a>
+<a href="https://www.researchgate.net/profile/Mahdi-Duris/publication/391389745_Feedback_and_Automated_Writing_Evaluation_AWE/links/68148678bfbe974b23c1c299/Feedback-and-Automated-Writing-Evaluation-AWE.pdf?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InByb2ZpbGUiLCJwYWdlIjoicHVibGljYXRpb24ifX0" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Accessible here</a>
 
 ## Methodological Influences on Word Stress Identification: Implications for Research and Teaching<br/>
 
