@@ -8,8 +8,7 @@ author_profile: true
 <h2 style="color: #005700"> Awards and Internal Grants</h2>
 
 Iowa State University Department of English **Graduate Student Leadership Award**<br/>
-<span style="color:grey">(2025)</span> In recognition of graduate students who have taken on leadership roles,<br/>
-and who have actively encouraged, advised, and mentored other students as they entered leadership roles.
+<span style="color:grey">(2025)</span> In recognition of graduate students who have assumed leadership roles and actively guided,<br/> advised, and mentored others as they enter leadership positions.
 
 Iowa State University Graduate College **Teaching Excellence Award**<br/>
 <span style="color:grey">(2024)</span> In recognition of graduate students who have demonstrated excellence in teaching.
