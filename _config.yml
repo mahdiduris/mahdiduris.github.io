@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "Iowa, USA"
-title                    : "Mahdi Duris"
+title                    : "Mahdi Duris, PhD"
 title_separator          : "—"
 name                     : &name "Mahdi Duris"
 description              : &description "Academic Site"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mahdi Duris<br/>مهدي بن جان-لوي دوريس"
+  name             : "Mahdi Duris<br/>أ. د.مهدي بن جان-لوي دوريس"
   avatar           : "ProfilePic.png"
-  bio              : "Research assistant<br/>Ph.D. candidate<br/>Applied Linguistics and Technology<br/>Iowa State University"
+  bio              : "Postdoc Associate<br/>Ph.D.<br/>Applied Linguistics and Technology<br/>Iowa State University"
   location         : "Ames, Iowa"
   employer         :
   pubmed           : 
