@@ -5,7 +5,7 @@ permalink: /experience/
 author_profile: true
 ---
 
-<span style="color:grey">**Graduate Research Assistant**</span> <span style="color:grey">(Iowa, USA)</span><br/>
+**Graduate Research Assistant** <span style="color:grey">(Iowa, USA)</span><br/>
 Iowa State University <span style="color:grey">(Jan. 2022 — May 2025)</span><br/>
 + Research Assistant to <a href="https://faculty.sites.iastate.edu/jlevis/" target="_blank" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Dr. John M. Levis</a><br/>
   + Project: Adaptive explicit and implicit feedback in second language pronunciation training<br/>
@@ -21,7 +21,7 @@ Iowa State University <span style="color:grey">(June 2022 — <span style="color
   + Research funded by the U.S. Department of State (2020)<br/>
   + Mentor to an undergraduate research assistant: <a href="https://www.linkedin.com/in/delaney-clark-5794722b0/" target="_blank" style="color: black; text-decoration: underline;text-decoration-style: dotted;"><i>Delaney Clark</i></a><br/>
 
-<span style="color:grey">**English Placement Test Rater**</span> <span style="color:grey">(Iowa, USA)</span><br/>
+**English Placement Test Rater** <span style="color:grey">(Iowa, USA)</span><br/>
 Iowa State University <span style="color:grey">(Aug. 2021 — May 2025)</span><br/>
 + Assess the oral communication ability of international students in academic contexts
 + Test administration every semester (Fall and Spring). <a href="https://apling.engl.iastate.edu/english-placement-test/" target="_blank" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Information Page</a><br/>
