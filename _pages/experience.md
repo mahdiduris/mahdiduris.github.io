@@ -7,7 +7,7 @@ author_profile: true
 <span style="color: #005700">**Postdoctoral Research Assistant**</span> <span style="color:grey">(Iowa, USA)</span><br/>
 Iowa State University <span style="color:grey">(August 2025 — <span style="color: #00ad00">Present</span>)</span><br/>
 + Research fellow to <a href="https://faculty.sites.iastate.edu/carolc/" target="_blank" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Dr. Carol Chapelle</a><br/>
-  + Project: Enhancing AI Communication | Exploring the Impact of Generative AI on Human Interaction<br/>
+  + Project: Enhancing AI Communication — Exploring the Impact of Generative AI on Human Interaction<br/>
 
 **Graduate Research Assistant** <span style="color:grey">(Iowa, USA)</span><br/>
 Iowa State University <span style="color:grey">(Jan. 2022 — May 2025)</span><br/>
