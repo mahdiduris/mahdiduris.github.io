@@ -5,12 +5,12 @@ permalink: /experience/
 author_profile: true
 ---
 <span style="color: #005700">**Postdoctoral Research Assistant**</span> <span style="color:grey">(Iowa, USA)</span><br/>
-Iowa State University <span style="color:grey">(August 2025 — <span style="color: #00ad00">Present</span>)</span><br/>
+Iowa State University <span style="color:grey">(Aug. 2025 — <span style="color: #00ad00">Present</span>)</span><br/>
 + Research fellow to <a href="https://faculty.sites.iastate.edu/carolc/" target="_blank" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Dr. Carol Chapelle</a><br/>
   + Project: Enhancing AI Communication — Exploring the Impact of Generative AI on Human Interaction<br/>
 
 **Graduate Research Assistant** <span style="color:grey">(Iowa, USA)</span><br/>
-Iowa State University <span style="color:grey">(Jan. 2022 — May 2025)</span><br/>
+Iowa State University <span style="color:grey">(Jan. 2022 — Aug. 2025)</span><br/>
 + Research Assistant to <a href="https://faculty.sites.iastate.edu/jlevis/" target="_blank" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Dr. John M. Levis</a><br/>
   + Project: Adaptive explicit and implicit feedback in second language pronunciation training<br/>
   + Research funded by the National Science Foundation (2020)<br/>
@@ -18,8 +18,8 @@ Iowa State University <span style="color:grey">(Jan. 2022 — May 2025)</span><b
 + <i><a href="https://bit.ly/respondlab" target="_blank" style="color: black; text-decoration: underline;text-decoration-style: dotted;">The ReSPonD Lab</a></i> Coordinator
 <br/>
 
-<span style="color: #005700">**Graduate Research Assistant**</span> <span style="color:grey">(Iowa, USA)</span><br/>
-Iowa State University <span style="color:grey">(June 2022 — <span style="color: #00ad00">Present</span>)</span><br/>
+**Graduate Research Assistant** <span style="color:grey">(Iowa, USA)</span><br/>
+Iowa State University <span style="color:grey">(June 2022 — Aug. 2025)</span><br/>
 + Research Assistant to <a href="https://engl.iastate.edu/directory/volker-hegelheimer/" target="_blank" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Dr. Volker Hegelheimer</a><br/>
   + Project: Using educational technology in the English language classroom<br/>
   + Research funded by the U.S. Department of State (2020)<br/>
