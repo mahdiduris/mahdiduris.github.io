@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Mahdi Duris"
+title: "Dr Mahdi Duris"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
