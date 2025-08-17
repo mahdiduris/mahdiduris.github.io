@@ -9,7 +9,7 @@
 locale                   : "Iowa, USA"
 title                    : "Mahdi Duris"
 title_separator          : "—"
-name                     : &name "Dr Mahdi Duris"
+name                     : &name "XXMahdi Duris"
 description              : &description "Academic Site"
 url                      : "https://mahdiduris.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
