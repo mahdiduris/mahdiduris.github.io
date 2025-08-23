@@ -4,6 +4,8 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+## Technology and Teaching Writing
+Na, I., **Duris, M.**, & Hegelheimer, V. (Forthcoming). Technology and teaching writing. In C. A. Chapelle (Ed.), _The Encyclopedia of Applied Linguistics_ (2nd ed.). Wiley-Blackwell. (manuscript accepted, typesetting)
 
 ## ChatGPT in ESL Writing: L2 Learners’ Perspectives<br/>
 
