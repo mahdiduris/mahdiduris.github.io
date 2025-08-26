@@ -2,19 +2,25 @@
 main:
   - title: "Education"
     url: /education/
+    description: "Mahdi Duris's academic and professional background"
 
   - title: "Publications"
-    url: /publications/    
+    url: /publications/
+    description: "Peer-reviewed articles, chapters, and conference papers"
 
   - title: "Conferences"
-    url: /conferences/    
+    url: /conferences/
+    description: "Presentations and showcases at academic events"
     
   - title: "Academic Service"
     url: /service/
+    description: "Program coordination, reviewing, and conference roles"
         
   - title: "Professional Experience"
     url: /experience/
+    description: "Research assistantships, postdoctoral roles, and lab work"
  
   - title: "Awards & Languages"
     url: /languages/
+    description: "Honors, grants, and language qualifications"
  
