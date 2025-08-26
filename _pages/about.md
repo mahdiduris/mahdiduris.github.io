@@ -1,18 +1,11 @@
---
-title: "Mahdi Duris"
-permalink: /
-description: "Postdoctoral Research Associate in Applied Linguistics and AI at Iowa State University. Research includes second language pronunciation, automated writing evaluation, and AI in education."
-layout: single
-author_profile: true
-redirect_from:
-  - /about/
-  - /about.html
 ---
-permalink: /
 title: "Mahdi Duris"
+permalink: /
+layout: single
+description: "Postdoctoral Research Associate in Applied Linguistics and AI at Iowa State University. Research includes second language pronunciation, automated writing evaluation, and AI in education."
 excerpt: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
