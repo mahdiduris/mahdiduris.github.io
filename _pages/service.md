@@ -3,6 +3,7 @@ layout: archive
 title: "Academic Service"
 permalink: /service/
 author_profile: true
+description: "Program coordination, conference organizing, and peer review contributions."
 ---
 <span style="color: #005700">**Social Media Lead & Front-end Web Developer**</span> <span style="color:grey">(2022-<span style="color: #00ad00">Present</span>)</span><br/>
 Responsible for design, communication, initiatives, and continuity.<br/>
