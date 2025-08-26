@@ -3,6 +3,7 @@ layout: archive
 title: "Awards & Languages"
 permalink: /languages/
 author_profile: true
+description: "Awards, grants, and language qualifications held by Mahdi Duris."
 ---
 
 <h2 style="color: #005700"> Awards and Internal Grants</h2>
