@@ -10,11 +10,13 @@ Na, I., **Duris, M.**, & Hegelheimer, V. (Forthcoming). Technology and teaching 
 
 ## ChatGPT in ESL Writing: L2 Learners’ Perspectives<br/>
 
-Na, I., **Duris, M.**, & Hegelheimer, V. (Forthcoming). ChatGPT in ESL writing: L2 learners’ perspectives. In C. A. Chapelle, G. H. Beckett, & B. Gray (Eds.), _Researching Generative AI in Applied Linguistics_. Iowa State University Digital Press. (manuscript accepted, under revision)<br/>
+Na, I., **Duris, M.**, & Hegelheimer, V. (2025). ChatGPT in ESL writing: L2 learners’ perspectives. In C. A. Chapelle, G. H. Beckett, & B. Gray (Eds.), _Researching Generative AI in Applied Linguistics_ (pp. 55-79). Iowa State University Digital Press. doi: 10.31274/isudp.2025.211.04<br/>
+<a href="https://www.iastatedigitalpress.com/plugins/books/211/format/1259/download/" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Accessible here</a>
 
 ## Comparing Human and Generative AI Analysis of Emotions in U.S. Abortion Tweets<br/>
 
-Kurt, Ş., & **Duris, M.** (Forthcoming). Comparing human and Generative AI analysis of emotions in U.S. abortion tweets. In C. A. Chapelle, G. H. Beckett, & B. Gray (Eds.), _Researching Generative AI in Applied Linguistics_. Iowa State University Digital Press. (manuscript accepted, under revision)<br/>
+Kurt, Ş., & **Duris, M.** (2025). Comparing human and Generative AI analysis of emotions in U.S. abortion tweets. In C. A. Chapelle, G. H. Beckett, & B. Gray (Eds.), _Researching Generative AI in Applied Linguistics_ (pp. 252-273). Iowa State University Digital Press. doi: 10.31274/isudp.2025.211.13<br/>
+<a href="https://www.iastatedigitalpress.com/plugins/books/211/format/1268/download/" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Accessible here</a>
 
 ## Longitudinal perception and production development of second language vowels<br/>
 
