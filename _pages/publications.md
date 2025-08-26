@@ -3,6 +3,7 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
+description: "Peer-reviewed articles, book chapters, conference proceedings, and scholarly publications by Mahdi Duris."
 ---
 ## Technology and Teaching Writing
 Na, I., **Duris, M.**, & Hegelheimer, V. (Forthcoming). Technology and teaching writing. In C. A. Chapelle (Ed.), _The Encyclopedia of Applied Linguistics_ (2nd ed.). Wiley-Blackwell. (manuscript accepted, typesetting)
