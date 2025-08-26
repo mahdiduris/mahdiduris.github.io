@@ -3,6 +3,7 @@ layout: archive
 title: "Professional Experience"
 permalink: /experience/
 author_profile: true
+description: "Academic and research appointments, teaching roles, and lab coordination experience."
 ---
 <span style="color: #005700">**Postdoctoral Research Associate**</span> <span style="color:grey">(Iowa, USA)</span><br/>
 Iowa State University <span style="color:grey">(Aug. 2025 — <span style="color: #00ad00">Present</span>)</span><br/>
