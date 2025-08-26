@@ -3,10 +3,8 @@ layout: archive
 title: "Education"
 permalink: /education/
 author_profile: true
+description: "Educational background including PhD, MA, and related training in Applied Linguistics & AI."
 ---
-
-
-
 <span style="color: #005700">**Iowa State University**</span> <span style="color:grey">(Iowa, USA)</span><br/>
 Ph.D., Applied Linguistics and Technology (ALT) <span style="color:grey">(2025)</span>
 
