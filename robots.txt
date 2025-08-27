@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /files/
+
+Sitemap: https://mahdiduris.com/sitemap.xml
