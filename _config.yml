@@ -14,7 +14,6 @@ description              : "Postdoctoral Research Associate in Applied Linguisti
 url                      : "https://mahdiduris.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mahdiduris/mahdiduris.github.io"
-timezone                 : "America/Chicago"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 160
@@ -67,14 +66,19 @@ og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
-
+  type                   : Person
+  name                   : "Mahdi Duris"
+  links: 
+    - "https://scholar.google.com/citations?user=4p0oiQ0AAAAJ"
+    - "https://www.linkedin.com/in/mahdiduris"
+    - "https://twitter.com/TeacherMahdi"
+    - "https://orcid.org/0000-0002-1569-1655"
+    - "https://github.com/mahdiduris"
+    - "https://www.researchgate.net/profile/Mahdi-Duris"
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  false # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
@@ -256,7 +260,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Chicago # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
