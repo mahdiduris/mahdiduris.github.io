@@ -6,14 +6,15 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "Iowa, USA"
+locale                   : "en-US"
 title                    : "Mahdi Duris"
 title_separator          : "—"
 name                     : &name "Dr. Mahdi Duris"
-description              : &description "Academic Site"
+description              : "Postdoctoral Research Associate in Applied Linguistics & AI at Iowa State University. Research on L2 pronunciation, AWE, and AI in education."
 url                      : "https://mahdiduris.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://github.com/mahdiduris?tab=repositories"
+repository               : "mahdiduris/mahdiduris.github.io"
+timezone                 : "America/Chicago"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 160
@@ -265,6 +266,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-seo-tag
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
@@ -272,6 +274,7 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+  - jekyll-seo-tag
 
 
 # Archives
