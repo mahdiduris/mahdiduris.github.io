@@ -249,6 +249,17 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  # Exclude all PDFs in /files/ from the XML sitemap (jekyll-sitemap reads this)
+  - scope:
+      path: "files/**/*.pdf"
+    values:
+      sitemap: false
+      
+  - scope:
+    path: "talkmap/**"
+  values:
+    sitemap: false
+
 
 # Sass/SCSS
 sass:
