@@ -8,8 +8,15 @@ description: "Peer-reviewed articles, book chapters, conference proceedings, and
 ## Technology and Teaching Writing
 Na, I., **Duris, M.**, & Hegelheimer, V. (Forthcoming). Technology and teaching writing. In C. A. Chapelle (Ed.), _The Encyclopedia of Applied Linguistics_ (2nd ed.). Wiley-Blackwell. (manuscript accepted, typesetting)
 
-## ChatGPT in ESL Writing: L2 Learners’ Perspectives<br/>
+## Technology and Generative AI: A Revolution for Language Learning</br>
+**Duris, M.**, Na, I., Sonsaat-Hegelheimer, S., & Levis, J. M. (2025). Technology and generative AI: A revolution for language learning. In J. M. Levis, M. Duris, S. Sonsaat-Hegelheimer, & I. Na (Eds.), _Proceedings of the 15th Pronunciation in Second Language Learning and Teaching Conference_ (pp. 1-11). Iowa State University, September 2024. doi: 10.31274/psllt.20461</br>
+<a href="https://www.iastatedigitalpress.com/psllt/article/20461/galley/18028/view/" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Accessible here</a>
 
+## Review of Guskaroska et al. (2024): Teaching Pronunciation with Confidence: A Resource for ESL/EFL Teachers and Learners</br>
+**Duris, M.** (2025). Review of Guskaroska et al. (2024): Teaching Pronunciation with Confidence: A Resource for ESL/EFL Teachers and Learners. In K. Červinková Poesová & T. Uzun (Eds.), _Speak Out! Journal of the IATEFL Pronunciation Special Interest Group,_ (73), (pp. 71-75). IATEFL. ISSN 2313-7703.</br>
+<a href="https://mahdiduris.github.io/files/Review of TPwC_2025.pdf" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Accessible here</a>
+
+## ChatGPT in ESL Writing: L2 Learners’ Perspectives<br/>
 Na, I., **Duris, M.**, & Hegelheimer, V. (2025). ChatGPT in ESL writing: L2 learners’ perspectives. In C. A. Chapelle, G. H. Beckett, & B. Gray (Eds.), _Researching Generative AI in Applied Linguistics_ (pp. 55-79). Iowa State University Digital Press. doi: 10.31274/isudp.2025.211.04<br/>
 <a href="https://www.iastatedigitalpress.com/plugins/books/211/format/1259/download/" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Accessible here</a>
 
@@ -18,9 +25,9 @@ Na, I., **Duris, M.**, & Hegelheimer, V. (2025). ChatGPT in ESL writing: L2 lear
 Kurt, Ş., & **Duris, M.** (2025). Comparing human and Generative AI analysis of emotions in U.S. abortion tweets. In C. A. Chapelle, G. H. Beckett, & B. Gray (Eds.), _Researching Generative AI in Applied Linguistics_ (pp. 252-273). Iowa State University Digital Press. doi: 10.31274/isudp.2025.211.13<br/>
 <a href="https://www.iastatedigitalpress.com/plugins/books/211/format/1268/download/" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Accessible here</a>
 
-## Longitudinal perception and production development of second language vowels<br/>
+## Longitudinal Perception and Production Development of Second Language Vowels<br/>
 
-Na, I., Nagle, N., **Duris, M.**, Kurt, S., Levis, J., & Rehman, I. (Forthcoming). Longitudinal perception and production development of second language vowels. _Language and Speech_. Sage Publications (manuscript under review)<br/>
+Na, I., Nagle, C., **Duris, M.**, Kurt, Ş., Levis, J., & Rehman, I. (Forthcoming). Longitudinal perception and production development of second language vowels. _Language and Speech_. Sage Publications (manuscript under review)<br/>
 
 ## Feedback and Automated Writing Evaluation (AWE)<br/>
 
