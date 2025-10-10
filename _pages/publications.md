@@ -8,11 +8,11 @@ description: "Peer-reviewed articles, book chapters, conference proceedings, and
 ## Technology and Teaching Writing
 Na, I., **Duris, M.**, & Hegelheimer, V. (Forthcoming). Technology and teaching writing. In C. A. Chapelle (Ed.), _The Encyclopedia of Applied Linguistics_ (2nd ed.). Wiley-Blackwell. (manuscript accepted, typesetting)
 
-## Technology and Generative AI: A Revolution for Language Learning</br>
+## Technology and Generative AI: A Revolution for Language Learning<br/>
 **Duris, M.**, Na, I., Sonsaat-Hegelheimer, S., & Levis, J. M. (2025). Technology and generative AI: A revolution for language learning. In J. M. Levis, M. Duris, S. Sonsaat-Hegelheimer, & I. Na (Eds.), _Proceedings of the 15th Pronunciation in Second Language Learning and Teaching Conference_ (pp. 1-11). Iowa State University, September 2024. doi: 10.31274/psllt.20461<br/>
 <a href="https://www.iastatedigitalpress.com/psllt/article/20461/galley/18028/view/" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Accessible here</a>
 
-## Review of Guskaroska et al. (2024): Teaching Pronunciation with Confidence: A Resource for ESL/EFL Teachers and Learners</br>
+## Review of Guskaroska et al. (2024): Teaching Pronunciation with Confidence: A Resource for ESL/EFL Teachers and Learners<br/>
 **Duris, M.** (2025). Review of Guskaroska et al. (2024): Teaching Pronunciation with Confidence: A Resource for ESL/EFL Teachers and Learners. In K. Červinková Poesová & T. Uzun (Eds.), _Speak Out! Journal of the IATEFL Pronunciation Special Interest Group,_ (73), (pp. 71-75). IATEFL. ISSN 2313-7703.<br/>
 <a href="https://mahdiduris.github.io/files/Review of TPwC_2025.pdf" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Accessible here</a>
 
