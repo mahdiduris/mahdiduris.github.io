@@ -5,6 +5,14 @@ permalink: /conferences/
 author_profile: true
 description: "A curated list of conference presentations and showcases by Mahdi Duris—highlighting technology, AI in education, and language learning engagements."
 ---
+<span style="color:grey">(2025)</span> **Grad Mixer Wednesdays: Strategies to Elevate your Professional Identities**<br/>
+Invited panelist for the Iowa State University Graduate College Professional Development Program, Ames, IA, US.<br/>
+In-person. <a href="https://mahdiduris.com/files/GMidfull.png" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Flyer</a>
+
+<span style="color:grey">(2025)</span> **ALT Brown Bag Series: Visiting Scholars & Postdoc Panel**<br/>
+Invited presentation for the Iowa State University ALT Brown Bag Series, Ames, IA, US.<br/>
+In-person. <a href="https://mahdiduris.com/files/BB25_1_Visiting Scholars.png" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Flyer</a>
+
 <span style="color:grey">(2025)</span> **ISU IGNITE Innovation Showcase: Dear ChatGPT, Fix My Essay... But Make It <i>Me</i> (Language at Work)**<br/>
 Invited technology showcase for the Iowa State University annual IGNITE Innovation event, Ames, IA, US.<br/>
 In-person. <a href="https://sictr.iastate.edu/programs-events/ignite-showcase/" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Program</a>
