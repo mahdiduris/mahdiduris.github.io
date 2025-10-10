@@ -5,6 +5,14 @@ permalink: /conferences/
 author_profile: true
 description: "A curated list of conference presentations and showcases by Mahdi Duris—highlighting technology, AI in education, and language learning engagements."
 ---
+<span style="color:grey">(2025)</span> **Testing the Reliability of Generative AI Systems in Emotion Analysis: A Human–Machine Comparison**<br/>
+Paper presented at the 3rd Artificial Intelligence Research in Applied Linguistics (AIRiAL), New York City, NY, US.<br/>
+In-person. <a href="https://mahdiduris.com/files/AIRiAL2025_Program.pdf" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Program</a>
+
+<span style="color:grey">(2025)</span> **Toward Emotionally Intelligent AI Feedback: Insights from a Longitudinal Study of Learner-AI Interaction**<br/>
+Paper presented at the 3rd Artificial Intelligence Research in Applied Linguistics (AIRiAL), New York City, NY, US.<br/>
+In-person. <a href="https://mahdiduris.com/files/AIRiAL2025_Program.pdf" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Program</a> 
+
 <span style="color:grey">(2025)</span> **Grad Mixer Wednesdays: Strategies to Elevate your Professional Identities**<br/>
 Invited panelist for the Iowa State University Graduate College Professional Development Program, Ames, IA, US.<br/>
 In-person. <a href="https://mahdiduris.com/files/GMidfull.png" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Flyer</a>
