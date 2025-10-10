@@ -5,10 +5,13 @@ permalink: /service/
 author_profile: true
 description: "Program coordination, conference organizing, and peer review contributions."
 ---
-<span style="color: #005700">**Social Media Lead & Front-end Web Developer**</span> <span style="color:grey">(2022-<span style="color: #00ad00">Present</span>)</span><br/>
+<span style="color:grey">(2022-<span style="color: #00ad00">Present</span>)</span> <span style="color: #005700">**Social Media Lead & Front-end Web Developer**</span><br/>
 Responsible for design, communication, initiatives, and continuity.<br/>
 * _Applied Linguistics Program (ApLing) at Iowa State University._ <a href="https://apling.engl.iastate.edu/" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Main website</a> :: <a href="https://www.linkedin.com/company/isuaplingprogram/" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">LinkedIn</a> :: <a href="https://x.com/apling_iastate" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">𝕏 (Twitter)</a><br/>
 * _Technology for Second Language Learning Conference (TSLL)._ <a href="https://apling.engl.iastate.edu/conferences/technology-for-second-language-learning-conference/tsll-archive/" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Archive Page</a> :: <a href="https://www.linkedin.com/showcase/tsll/" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">LinkedIn</a> :: <a href="https://twitter.com/TSLL_iastate" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">𝕏 (Twitter)</a><br/>
+
+<span style="color: #00ad00">(Present)</span> <span style="color: #005700">**Newsletter Editor**</span><br/>
+_As We Speak_ — TESOL, Speech, Pronunciation, & Listening Interest Section <br/>
 
 <span style="color:grey">(2025)</span> **Reviewer**<br/>
 _Proceedings for the 15th Annual Pronunciation in Second Language Learning and Teaching Conference (PSLLT 2024)._<br/>
