@@ -35,7 +35,7 @@ Iowa State University Graduate College **Teaching Excellence Award**<br/>
 
 <h2 style="color: #005700"> Travel Grants</h2>
 
-**Global Online Course Mentorship <span style="color: #005700">Professional Development Grant**</span><br/>
+**Global Online Course Mentorship** <span style="color: #005700">**Professional Development Grant**</span><br/>
 Present at the 3rd Artificial Intelligence Research in Applied Linguistics Conference (AIRiAL), New York, US.<br/>
 <span style="color:grey">(2025)</span> Amount funded: $1,200
 
