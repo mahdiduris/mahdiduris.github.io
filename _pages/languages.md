@@ -8,8 +8,8 @@ description: "Awards, grants, and language qualifications held by Mahdi Duris."
 
 <h2 style="color: #005700"> Awards and Internal Grants</h2>
 
-Iowa State University Graduate College <span style="color: #005700">**Research Excellence Award**<br/>
-<span style="color:grey">(2025)</span> In recognition of graduate students who have demonstrated excellence<br/> in research accomplishments as documented in their theses and dissertations.
+Iowa State University Graduate College <span style="color: #005700">**Research Excellence Award**</span><br/>
+<span style="color:grey">(2025)</span> In recognition of graduate students who have demonstrated excellence in research accomplishments<br/> as documented in their theses and dissertations.
 
 Iowa State University Department of English **Graduate Student Leadership Award**<br/>
 <span style="color:grey">(2025)</span> In recognition of graduate students who have assumed leadership roles and actively guided,<br/> advised, and mentored others as they enter leadership positions.
@@ -35,7 +35,7 @@ Iowa State University Graduate College **Teaching Excellence Award**<br/>
 
 <h2 style="color: #005700"> Travel Grants</h2>
 
-**Global Online Course Mentorship Professional Development Grant**<br/>
+**Global Online Course Mentorship <span style="color: #005700">Professional Development Grant**</span><br/>
 Present at the 3rd Artificial Intelligence Research in Applied Linguistics Conference (AIRiAL), New York, US.<br/>
 <span style="color:grey">(2025)</span> Amount funded: $1,200
 
