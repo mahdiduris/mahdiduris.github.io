@@ -25,7 +25,7 @@ Postdoctoral volunteer for the _2025 Three-Minute Thesis (3MT) Competition._<br/
 
 <span style="color:grey">(2025)</span> **Reviewer**<br/>
 _Proceedings for the 15th Annual Pronunciation in Second Language Learning and Teaching Conference (PSLLT 2024)._<br/>
-<a href="https://www.iastatedigitalpress.com/psllt/editorialteam/" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Proceedings Page</a>
+<a href="https://www.iastatedigitalpress.com/psllt/issue/1268/info/" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Proceedings Page</a>
 
 <span style="color:grey">(2025)</span> **Proceedings Co-editor**<br/>
 _Proceedings of the 15th Pronunciation in Second Language Learning and Teaching Conference (PSLLT 2024)._<br/>
