@@ -12,17 +12,28 @@ Responsible for design, communication, initiatives, and continuity.<br/>
 
 <span style="color: #00ad00">(Present)</span> <span style="color: #005700">**Newsletter Editor**</span><br/>
 _As We Speak_ — TESOL, Speech, Pronunciation, & Listening Interest Section <br/>
+<a href="https://my.tesol.org/news/1420966" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Editor Letter</a>
+
+<span style="color:grey">(2025)</span> **Symposium Front-end Web Developer**<br/>
+_The ELT Go-Getter Symposium (ELTGG2025)._<br/>
+Responsible for web content and continuity for the ELT Go-Getter 2025 Symposium held online <br/>October 24-25, 2025. <a href="https://eltgogetter.com" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Event Page</a>
+
+<span style="color:grey">(2025)</span> **ISU Graduate College 3MT Volunteer**<br/>
+Postdoctoral volunteer for the _2025 Three-Minute Thesis (3MT) Competition._<br/>
+10th Annual 3MT Preliminary Competition organized by the Graduate College at Iowa State University.<br/> October 22nd, Ames, IA.
+<a href="https://profdev.grad-college.iastate.edu/3mt" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Event Page</a>
 
 <span style="color:grey">(2025)</span> **Reviewer**<br/>
 _Proceedings for the 15th Annual Pronunciation in Second Language Learning and Teaching Conference (PSLLT 2024)._<br/>
+<a href="https://www.iastatedigitalpress.com/psllt/editorialteam/" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Proceedings Page</a>
 
 <span style="color:grey">(2025)</span> **Proceedings Co-editor**<br/>
 _Proceedings of the 15th Pronunciation in Second Language Learning and Teaching Conference (PSLLT 2024)._<br/>
-Forthcoming publication, June 2025. <a href="https://www.iastatedigitalpress.com/psllt/editorialteam/" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Proceedings Page</a>
+Published, September 2025. <a href="https://www.iastatedigitalpress.com/psllt/editorialteam/" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Proceedings Page</a>
 
 <span style="color:grey">(2025)</span> **Assistant Editor**<br/>
 Open Educational Book — _Researching the Language and Use of Generative AI._<br/>
-Forthcoming publication, July 2025.
+Published, August 2025.  <a href="https://www.iastatedigitalpress.com/plugins/books/211/" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Open Book Page</a>
 
 <span style="color:grey">(2024)</span> **Reviewer**<br/>
 _Applied Linguistics_, Oxford Academic. <a href="https://academic.oup.com/applij" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Journal Page</a> :: <a href="https://bit.ly/aplxjournalcertduris" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Certificate</a>
