@@ -14,7 +14,7 @@ Responsible for design, communication, initiatives, and continuity.<br/>
 _As We Speak_ — TESOL, Speech, Pronunciation, & Listening Interest Section <br/>
 <a href="https://my.tesol.org/news/1420966" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Editor Letter</a>
 
-<span style="color:grey">(2025)</span> **Symposium Front-end Web Developer**<br/>
+<span style="color:grey">(2025)</span> **Organizing Committee Co-Chair & Front-end Web Developer**<br/>
 _The ELT Go-Getter Symposium (ELTGG2025)._<br/>
 Responsible for web content and continuity for the ELT Go-Getter 2025 Symposium held online <br/>October 24-25, 2025. <a href="https://eltgogetter.com" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Event Page</a>
 
