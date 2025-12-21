@@ -8,7 +8,10 @@ description: "Awards, grants, and language qualifications held by Mahdi Duris."
 
 <h2 style="color: #005700"> Awards and Internal Grants</h2>
 
-Iowa State University Graduate College <span style="color: #005700">**Research Excellence Award**</span><br/>
+Postdoctoral Research <span style="color: #005700">**Professional Development Grant**</span><br/>
+<span style="color:grey">(2026)</span> Amount awarded: $2,500
+
+Iowa State University Graduate College **Research Excellence Award**<br/>
 <span style="color:grey">(2025)</span> In recognition of graduate students who have demonstrated excellence in research accomplishments<br/> as documented in their theses and dissertations.
 
 Iowa State University Department of English **Graduate Student Leadership Award**<br/>
