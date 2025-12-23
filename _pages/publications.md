@@ -5,6 +5,9 @@ permalink: /publications/
 author_profile: true
 description: "Peer-reviewed articles, book chapters, conference proceedings, and scholarly publications by Mahdi Duris."
 ---
+## Proficiency Matters: Longitudinal Patterns in University Students’ AI-Assisted Academic Writing Revision
+Na, I., **Duris, M.**, & Hegelheimer, V. (Forthcoming). Proficiency matters: Longitudinal patterns in university students’ AI-assisted academic writing revision. _Applied Linguistics_. (manuscript submitted)
+
 ## Technology and Teaching Writing
 Na, I., **Duris, M.**, & Hegelheimer, V. (Forthcoming). Technology and teaching writing. In C. A. Chapelle (Ed.), _The Encyclopedia of Applied Linguistics_ (2nd ed.). Wiley-Blackwell. (manuscript accepted, typesetting)
 
