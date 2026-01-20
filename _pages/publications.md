@@ -5,6 +5,9 @@ permalink: /publications/
 author_profile: true
 description: "Peer-reviewed articles, book chapters, conference proceedings, and scholarly publications by Mahdi Duris."
 ---
+## Writing aid for L2: A critical review of Cambridge Write & Improve
+Na, I., **Duris, M.**, & Hegelheimer, V. (Forthcoming). Writing aid for L2: A critical review of Cambridge Write & Improve. In X. Xi, S. Cushing, & T. François (Eds.), _Bloomsbury Handbook of Automated Language Assessment_. (manuscript submitted).
+
 ## Proficiency Matters: Longitudinal Patterns in University Students’ AI-Assisted Academic Writing Revision
 Na, I., **Duris, M.**, & Hegelheimer, V. (Forthcoming). Proficiency matters: Longitudinal patterns in university students’ AI-assisted academic writing revision. _Applied Linguistics_. (manuscript submitted)
 
