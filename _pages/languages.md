@@ -8,7 +8,10 @@ description: "Awards, grants, and language qualifications held by Mahdi Duris."
 
 <h2 style="color: #005700"> Awards and Internal Grants</h2>
 
-Postdoctoral Research <span style="color: #005700">**Professional Development Grant**</span><br/>
+<span style="color: #005700">**Postdoc Professional Development Grant**</span> (Postdoctoral Affairs)<br/>
+<span style="color:grey">(2026)</span> Amount awarded: $1,000
+
+**Postdoctoral Research Grant** (Department of English)<br/>
 <span style="color:grey">(2026)</span> Amount awarded: $2,500
 
 Iowa State University Graduate College **Research Excellence Award**<br/>
