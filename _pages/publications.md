@@ -12,7 +12,8 @@ Na, I., **Duris, M.**, & Hegelheimer, V. (Forthcoming). Writing aid for L2: A cr
 Na, I., **Duris, M.**, & Hegelheimer, V. (Forthcoming). Proficiency matters: Longitudinal patterns in university students’ AI-assisted academic writing revision. _Applied Linguistics_. (manuscript submitted)
 
 ## Technology and Teaching Writing
-Na, I., **Duris, M.**, & Hegelheimer, V. (Forthcoming). Technology and teaching writing. In C. A. Chapelle (Ed.), _The Encyclopedia of Applied Linguistics_ (2nd ed.). Wiley-Blackwell. (manuscript accepted, typesetting)
+Na, I., **Duris, M.**, & Hegelheimer, V. (2026). Technology and teaching writing. In C. A. Chapelle (Ed.), _The Encyclopedia of Applied Linguistics_ (2nd ed.). Wiley-Blackwell. doi: 10.1002/9781405198431.wbeal1191.pub2<br/>
+<a href="https://onlinelibrary.wiley.com/doi/full/10.1002/9781405198431.wbeal1191.pub2" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Accessible here</a>
 
 ## Technology and Generative AI: A Revolution for Language Learning<br/>
 **Duris, M.**, Na, I., Sonsaat-Hegelheimer, S., & Levis, J. M. (2025). Technology and generative AI: A revolution for language learning. In J. M. Levis, M. Duris, S. Sonsaat-Hegelheimer, & I. Na (Eds.), _Proceedings of the 15th Pronunciation in Second Language Learning and Teaching Conference_ (pp. 1-11). Iowa State University, September 2024. doi: 10.31274/psllt.20461<br/>
