@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Mahdi Duris"
 title_separator          : "—"
 name                     : &name "Dr. Mahdi Duris"
-description              : "Postdoctoral Research Associate in Applied Linguistics & AI at Iowa State University. Research on L2 pronunciation, AWE, and AI in education."
+description              : "Assistant Professor in Applied Linguistics & Technology at the University of Tabuk. Research on L2 pronunciation, AWE, and AI in education."
 url                      : "https://mahdiduris.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mahdiduris/mahdiduris.github.io"
@@ -87,8 +87,8 @@ analytics:
 author:
   name             : "Mahdi Duris, PhD<br/>أ.د. مهدي بن جان-لوي دوريس"
   avatar           : "MahdiDuris_Postdoc Researcher2.png"
-  bio              : "Postdoc Research Associate<br/>Applied Linguistics & Ai<br/>Iowa State University<br/>mahdi [at] mahdiduris.com"
-  location         : "Ames, Iowa"
+  bio              : "Assistant Professor<br/>Applied Linguistics & Ai<br/>University of Tabuk<br/>mahdi [at] mahdiduris.com"
+  location         : "Tabuk, Kingdom of Saudi Arabia"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=4p0oiQ0AAAAJ"
