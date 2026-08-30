@@ -9,7 +9,7 @@ description: "Academic and research appointments, teaching roles, and lab coordi
 University of Tabuk <span style="color:grey">(Aug. 2026 — <span style="color: #00ad00">Present</span>)</span><br/>
 + English Language Institute
 
-**Postdoctoral Research Associate**</span> <span style="color:grey">(Iowa, USA)</span><br/>
+**Postdoctoral Research Associate** <span style="color:grey">(Iowa, USA)</span><br/>
 Iowa State University <span style="color:grey">(Aug. 2025 — Aug. 2026)</span><br/>
 + Research fellow to <a href="https://faculty.sites.iastate.edu/carolc/" target="_blank" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Dr. Carol Chapelle</a><br/>
   + Project: Enhancing AI Communication — Exploring the Impact of Generative AI on Human Interaction<br/>
