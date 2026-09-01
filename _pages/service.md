@@ -16,7 +16,7 @@ Responsible for design, communication, initiatives, and continuity.<br/>
 
 <span style="color:grey">(2025)</span> **Organizing Committee Co-Chair & Front-end Web Developer**<br/>
 _The ELT Go-Getter Symposium (ELTGG2025)._<br/>
-Responsible for web content and continuity for the ELT Go-Getter 2025 Symposium held online <br/>October 24-25, 2025. <a href="https://eltgogetter.com" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Event Page</a>
+Responsible for web content and continuity for the ELT Go-Getter 2025 Symposium held online <br/>October 24-25, 2025. <a href="https://web.archive.org/web/20260812191509/http://eltgogetter.com/" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Event Page</a>
 
 <span style="color:grey">(2025)</span> **ISU Graduate College 3MT Volunteer**<br/>
 Postdoctoral volunteer for the _2025 Three-Minute Thesis (3MT) Competition._<br/>
