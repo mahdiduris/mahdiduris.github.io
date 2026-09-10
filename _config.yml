@@ -69,7 +69,7 @@ social:
   type                   : Person
   name                   : "Mahdi Duris"
   links: 
-    - "https://scholar.google.com/citations?user=4p0oiQ0AAAAJ"
+    - "https://scholar.google.com/citations?user=4oJbHXsAAAAJ"
     - "https://www.linkedin.com/in/mahdiduris"
     - "https://twitter.com/TeacherMahdi"
     - "https://orcid.org/0000-0002-1569-1655"
@@ -91,8 +91,8 @@ author:
   location         : "Tabuk, Kingdom of Saudi Arabia"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=4p0oiQ0AAAAJ"
-  email            : "mahdi@mahdiduris.com"
+  googlescholar    : "https://scholar.google.com/citations?user=4oJbHXsAAAAJ"
+  email            : "mduris@ut.edu.sa"
   researchgate     : "https://www.researchgate.net/profile/Mahdi-Duris" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
