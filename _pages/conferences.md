@@ -9,6 +9,14 @@ description: "A curated list of conference presentations and showcases by Mahdi 
 Paper presented by Chris Litten at the 4th Artificial Intelligence Research in Applied Linguistics (AIRiAL),<br/>
 New York City, NY, US. In-person. <a href="https://mahdiduris.com/files/AIRiAL2026 Program.pdf" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Program</a>
 
+<span style="color:grey">(2026)</span> **How is GenAI used in language classes: Constructing a survey for language teachers**<br/>
+Poster presented at the 2nd Annual ISU IGNITE Innovation Showcase, Ames, IA, US.<br/>
+In-person.
+
+<span style="color:grey">(2026)</span> **Mapping Generative AI Literacy in Communication and Language Education (2023–2025)**<br/>
+Poster presented at the 2nd Annual ISU IGNITE Innovation Showcase, Ames, IA, US.<br/>
+In-person.
+
 <span style="color:grey">(2026)</span> **From SPIS to SPLIS: Advancing Speaking, Pronunciation, and Listening**<br/>
 Poster presented and showcased at the 60th Annual TESOL International Convention and Expo (TESOL), Salt Lake City, UT, US.<br/>
 In-person. <a href="https://mahdiduris.com/files/TESOL2026_SPLISposter.pdf" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Poster</a>
