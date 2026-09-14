@@ -5,6 +5,10 @@ permalink: /conferences/
 author_profile: true
 description: "A curated list of conference presentations and showcases by Mahdi Duris—highlighting technology, AI in education, and language learning engagements."
 ---
+<span style="color:grey">(2025)</span> **Same Language, Different Partner: Fluency and Anxiety in Real-Time Spoken AI Interaction**<br/>
+Paper presented by Chris Litten at the 3rd Artificial Intelligence Research in Applied Linguistics (AIRiAL), New York City, NY, US.<br/>
+In-person. <a href="https://mahdiduris.com/files/AIRiAL2026 Program.pdf" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Program</a>
+
 <span style="color:grey">(2025)</span> **Testing the Reliability of Generative AI Systems in Emotion Analysis: A Human–Machine Comparison**<br/>
 Paper presented at the 3rd Artificial Intelligence Research in Applied Linguistics (AIRiAL), New York City, NY, US.<br/>
 In-person. <a href="https://mahdiduris.com/files/AIRiAL2025_Program.pdf" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Program</a>
