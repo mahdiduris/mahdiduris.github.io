@@ -9,6 +9,17 @@ description: "Program coordination, conference organizing, and peer review contr
 _As We Speak_ — TESOL, Speech, Pronunciation, & Listening Interest Section <br/>
 <a href="https://my.tesol.org/news/1420966" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Editor Letter</a>
 
+<span style="color:grey">(2026)</span> **Book Proposal Reviewer**<br/>
+_Springer Nature._<br/>
+
+<span style="color:grey">(2026)</span> **Reviewer**<br/>
+_The 50th Annual American Association for Applied Linguistics Conference (AAAL 2027)._<br/>
+<a href="https://www.aaal.org/2027-call-for-proposals" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Conference Page</a>
+
+<span style="color:grey">(2026)</span> **Reviewer**<br/>
+_The 17th Annual Pronunciation in Second Language Learning and Teaching Conference (PSLLT 2026)._<br/>
+<a href="https://sites.google.com/view/psllt2026/home" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Conference Page</a>
+
 <span style="color:grey">(2022-2026)</span> **Social Media Lead & Front-end Web Developer**<br/>
 Responsible for design, communication, initiatives, and continuity.<br/>
 _Applied Linguistics Program (ApLing) at Iowa State University._ <a href="https://apling.engl.iastate.edu/" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Main website</a> :: <a href="https://www.linkedin.com/company/isuaplingprogram/" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">LinkedIn</a> :: <a href="https://x.com/apling_iastate" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">𝕏 (Twitter)</a><br/>
