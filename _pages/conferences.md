@@ -9,6 +9,14 @@ description: "A curated list of conference presentations and showcases by Mahdi 
 Paper presented by Chris Litten at the 4th Artificial Intelligence Research in Applied Linguistics (AIRiAL),<br/>
 New York City, NY, US. In-person. <a href="https://mahdiduris.com/files/AIRiAL2026 Program.pdf" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Program</a>
 
+<span style="color:grey">(2026)</span> **From SPIS to SPLIS: Advancing Speaking, Pronunciation, and Listening**<br/>
+Poster presented and showcased at the 60th Annual TESOL International Convention and Expo (TESOL), Salt Lake City, UT, US.<br/>
+In-person. <a href="https://mahdiduris.com/files/TESOL2026_SPLISposter.pdf" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Poster</a>
+
+<span style="color:grey">(2025)</span> **Native and Non-Native Learners’ Engagement with ChatGPT Feedback: A Longitudinal, Comparative Study**<br/>
+Paper presented at the 22nd Annual Technology for Second Language Learning Conference (TSLL), Ames, IA, US.<br/>
+In-person. <a href="https://wayback.archive-it.org/org-169/20260507213532/https://apling.engl.iastate.edu/conferences/technology-for-second-language-learning-conference/tsll-2025/abstracts/#S7_6" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Program</a>
+
 <span style="color:grey">(2025)</span> **Testing the Reliability of Generative AI Systems in Emotion Analysis: A Human–Machine Comparison**<br/>
 Paper presented at the 3rd Artificial Intelligence Research in Applied Linguistics (AIRiAL), New York City, NY, US.<br/>
 In-person. <a href="https://mahdiduris.com/files/AIRiAL2025_Program.pdf" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Program</a>
