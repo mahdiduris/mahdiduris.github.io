@@ -6,11 +6,11 @@ author_profile: true
 description: "A curated list of conference presentations and showcases by Mahdi Duris—highlighting technology, AI in education, and language learning engagements."
 ---
 <span style="color:grey">(2027)</span> **Defining GenAI literacy for pre-service EFL teachers: A mixed-methods domain analysis**<br/>
-Accepted paper presentation for the 50th American Association of Applied Linguistics (AAAL27),<br/>
+Accepted paper presentation for the 50th American Association of Applied Linguistics Conference (AAAL27),<br/>
 Atlanta, GA, US. In-person. <a href="https://www.aaal.org/schedule-at-a-glance-2027" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Program</a>
 
 <span style="color:grey">(2026)</span> **Same Language, Different Partner: Fluency and Anxiety in Real-Time Spoken AI Interaction**<br/>
-Paper presented by Chris Litten at the 4th Artificial Intelligence Research in Applied Linguistics (AIRiAL 2026),<br/>
+Paper presented by Chris Litten at the 4th Artificial Intelligence Research in Applied Linguistics Conference (AIRiAL 2026),<br/>
 New York City, NY, US. In-person. <a href="https://mahdiduris.com/files/AIRiAL2026 Program.pdf" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Program</a>
 
 <span style="color:grey">(2026)</span> **How is GenAI used in language classes: Constructing a survey for language teachers**<br/>
