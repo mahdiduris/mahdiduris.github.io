@@ -8,6 +8,8 @@ description: "Academic and research appointments, teaching roles, and lab coordi
 <span style="color: #005700">**Assistant Professor**</span> <span style="color:grey">(Tabuk, KSA)</span><br/>
 University of Tabuk <span style="color:grey">(Aug. 2026 — <span style="color: #00ad00">Present</span>)</span><br/>
 + English Language Institute
++ Instructor of Record
+  + ELS 1102: English as a Foreign Language (EFL) A2 CEFR level split-skills course (Engineering Track)
 
 **Postdoctoral Research Associate** <span style="color:grey">(Iowa, USA)</span><br/>
 Iowa State University <span style="color:grey">(Aug. 2025 — Aug. 2026)</span><br/>
