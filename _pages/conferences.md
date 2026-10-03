@@ -19,7 +19,7 @@ In-person. <a href="https://mahdiduris.com/files/AITAPCK at IGNITE2026.pdf" targ
 
 <span style="color:grey">(2026)</span> **Mapping Generative AI Literacy in Communication and Language Education (2023–2025)**<br/>
 Poster presented at the 2nd Annual ISU IGNITE Innovation Showcase, Ames, IA, US.<br/>
-In-person.
+In-person. <a href="https://mahdiduris.com/files/IGNITE poster_AI literacy project.pdf" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Poster</a>
 
 <span style="color:grey">(2026)</span> **From SPIS to SPLIS: Advancing Speaking, Pronunciation, and Listening**<br/>
 Poster presented and showcased at the 60th Annual TESOL International Convention and Expo (TESOL), Salt Lake City, UT, US.<br/>
