@@ -9,6 +9,15 @@ description: "Program coordination, conference organizing, and peer review contr
 _As We Speak_ — TESOL, Speech, Pronunciation, & Listening Interest Section <br/>
 <a href="https://my.tesol.org/news/1420966" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Editor Letter</a>
 
+<span style="color:grey">(2026)</span> **Reviewer**<br/>
+_Applied Linguistics_, Oxford Academic. <a href="https://academic.oup.com/applij" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Journal Page</a>
+
+<span style="color:grey">(2026)</span> **Reviewer**<br/>
+_Moderna Språk_, Föreningen Tidskriften Moderna språk. <a href="https://publicera.kb.se/mosp/aboutj" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Journal Page</a>
+
+<span style="color:grey">(2026)</span> **Reviewer**<br/>
+_Bellaterra Journal of Teaching & Learning Language & Literature (BJTLLL)_,<br/> Universitat Autònoma de Barcelona (UAB). <a href="https://revistes.uab.cat/jtl3/about" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Journal Page</a>
+
 <span style="color:grey">(2026)</span> **Book Proposal Reviewer**<br/>
 _Springer Nature._<br/>
 
