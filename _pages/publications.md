@@ -9,7 +9,12 @@ description: "Peer-reviewed articles, book chapters, conference proceedings, and
 Na, I., **Duris, M.**, & Hegelheimer, V. (Forthcoming). Writing aid for L2: A critical review of Cambridge Write & Improve. In X. Xi, S. Cushing, & T. François (Eds.), _Bloomsbury Handbook of Automated Language Assessment_. (manuscript submitted).
 
 ## Proficiency Matters: Longitudinal Patterns in University Students’ AI-Assisted Academic Writing Revision
-Na, I., **Duris, M.**, & Hegelheimer, V. (Forthcoming). Proficiency matters: Longitudinal patterns in university students’ AI-assisted academic writing revision. _Applied Linguistics_. (manuscript submitted)
+Na, I., **Duris, M.**, & Hegelheimer, V. (2026). Proficiency matters: Longitudinal patterns in university students’ AI-assisted academic writing revision. _Applied Linguistics_. (manuscript submitted)
+
+
+## Tracking L2 English Vowel Perception and Production Among Graduate Professionals Over 18 Months
+Na, I., Nagle, C., **Duris, M.**, Kurt, Ş., Levis, J., & Rehman, I. (2026). Tracking L2 English Vowel Perception and Production Among Graduate Professionals Over 18 Months. _Language and Speech_. doi: https://doi.org/10.1177/00238309261470734<br/>
+<a href="https://doi.org/10.1177/00238309261470734" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Accessible here</a>
 
 ## Technology and Teaching Writing
 Na, I., **Duris, M.**, & Hegelheimer, V. (2026). Technology and teaching writing. In C. A. Chapelle (Ed.), _The Encyclopedia of Applied Linguistics_ (2nd ed.). Wiley-Blackwell. doi: 10.1002/9781405198431.wbeal1191.pub2<br/>
