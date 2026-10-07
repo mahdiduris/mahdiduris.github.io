@@ -9,6 +9,10 @@ description: "A curated list of conference presentations and showcases by Mahdi 
 Accepted paper presentation for the 50th American Association of Applied Linguistics Conference (AAAL27),<br/>
 Atlanta, GA, US. In-person. <a href="https://www.aaal.org/schedule-at-a-glance-2027" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Program</a>
 
+<span style="color:grey">(2026)</span> **A Systematic Review of Generative AI Literacy in Language Education (2023–2025)**<br/>
+Paper presentation at the 23rd Annual Technology for Second Language Learning Conference (TSLL2026),<br/>
+Ames, IA, US. Hybrid. <a href="https://engl.iastate.edu/research/conferences/technology-for-second-language-learning-conference-tsll/tsll-conference-2026/program-abstracts/" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Program</a>
+
 <span style="color:grey">(2026)</span> **Same Language, Different Partner: Fluency and Anxiety in Real-Time Spoken AI Interaction**<br/>
 Paper presented by Chris Litten at the 4th Artificial Intelligence Research in Applied Linguistics Conference (AIRiAL 2026),<br/>
 New York City, NY, US. In-person. <a href="https://mahdiduris.com/files/AIRiAL2026 Program.pdf" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Program</a>
