@@ -3,3 +3,14 @@
 .conversation{display:flex;flex-direction:column;gap:12px;margin:18px 0;min-height:140px}.bubble{max-width:92%;padding:12px 15px;border-radius:12px;background:var(--soft);white-space:pre-wrap;overflow-wrap:anywhere}.bubble.user{align-self:flex-end;background:#fff7e7;border:1px solid #e5d5a4}.bubble.assistant{align-self:flex-start;border:1px solid var(--border)}.bubble strong{color:var(--green);font-size:13px}.bubble p{margin:5px 0 0}.chat-form label{display:block;font-weight:650;margin-bottom:6px}.chat-form textarea{min-height:90px}.chat-form .primary{margin-top:9px}#chatStatus{min-height:22px}
 
 h2{font-size:19px;color:var(--green);margin:25px 0 8px}.choices{display:grid;gap:8px}.choices .choice{margin:0}.actions{display:flex;flex-wrap:wrap;align-items:center;gap:12px}.secondary-action{border:1px solid var(--border);border-radius:9px;padding:12px 15px;background:white;color:var(--green);font:inherit;cursor:pointer;margin-top:15px}.secondary-action:disabled,.back:disabled{opacity:.5}.conversation{max-height:540px;overflow-y:auto}.bubble p{white-space:pre-wrap}
+
+/* Tutor vocabulary emphasis */
+.tutor strong,
+.tutor-message strong,
+.message strong,
+.chat-bubble strong {
+  color: #000000;
+  font-size: inherit;
+  font-weight: 700;
+  line-height: inherit;
+}
