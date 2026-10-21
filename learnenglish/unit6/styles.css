@@ -5,10 +5,7 @@
 h2{font-size:19px;color:var(--green);margin:25px 0 8px}.choices{display:grid;gap:8px}.choices .choice{margin:0}.actions{display:flex;flex-wrap:wrap;align-items:center;gap:12px}.secondary-action{border:1px solid var(--border);border-radius:9px;padding:12px 15px;background:white;color:var(--green);font:inherit;cursor:pointer;margin-top:15px}.secondary-action:disabled,.back:disabled{opacity:.5}.conversation{max-height:540px;overflow-y:auto}.bubble p{white-space:pre-wrap}
 
 /* Tutor vocabulary emphasis */
-.tutor strong,
-.tutor-message strong,
-.message strong,
-.chat-bubble strong {
+.bubble.assistant strong {
   color: #000000;
   font-size: inherit;
   font-weight: 700;
