@@ -9,6 +9,10 @@ description: "A curated list of conference presentations and showcases by Mahdi 
 Accepted paper presentation for the 50th American Association of Applied Linguistics Conference (AAAL27),<br/>
 Atlanta, GA, US. In-person. <a href="https://www.aaal.org/schedule-at-a-glance-2027" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Program</a>
 
+<span style="color:grey">(2026)</span> **Spoken Fluency in Interaction with Conversational Voice AI**<br/>
+Poster presented by Chris Litten at the AI Student Research Symposium for Dependable Data Driven Discovery<br/> National Research Traineeship, Ames, IA, US.
+In-person. <a href="https://mahdiduris.com/files/ISU_fluency_DDDsympo.pdf" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Poster</a>
+
 <span style="color:grey">(2026)</span> **A Systematic Review of Generative AI Literacy in Language Education (2023–2025)**<br/>
 Paper presentation at the 23rd Annual Technology for Second Language Learning Conference (TSLL2026),<br/>
 Ames, IA, US. Hybrid. <a href="https://engl.iastate.edu/research/conferences/technology-for-second-language-learning-conference-tsll/tsll-conference-2026/program-abstracts/" target="_blank" style="color: grey; text-decoration: underline;text-decoration-style: dotted;">Program</a>
