@@ -5,8 +5,11 @@ permalink: /publications/
 author_profile: true
 description: "Peer-reviewed articles, book chapters, conference proceedings, and scholarly publications by Mahdi Duris."
 ---
+## Learner Uptake and Mediation of ChatGPT Feedback in University Students’ AI-Assisted Academic Writing Revision
+Na, I., **Duris, M.**, & Hegelheimer, V. (in preparation). Learner uptake and mediation of ChatGPT feedback in university students’ AI-assisted academic writing revision. _Journal of Second Language Writing_.
+
 ## GenAI-Mediated Assessment and Feedback: Conceptual Foundations for Language Teacher Education
-Sogut, S., & **Duris, M.** (Forthcoming). GenAI-Mediated Assessment and Feedback: Conceptual Foundations for Language Teacher Education. In D. Tafazoli & S. Ledger (Eds.), _The Cambridge Handbook of Artificial Intelligence and Language Teacher Education_. Cambridge University Press. (under review).
+Sogut, S., & **Duris, M.** (Forthcoming). GenAI-Mediated Assessment and Feedback: Conceptual Foundations for Language Teacher Education. In D. Tafazoli & S. Ledger (Eds.), _The Cambridge Handbook of Artificial Intelligence and Language Teacher Education_. Cambridge University Press. (proofreading).
 
 ## Writing aid for L2: A critical review of Cambridge Write & Improve
 Na, I., **Duris, M.**, & Hegelheimer, V. (Forthcoming). Writing aid for L2: A critical review of Cambridge Write & Improve. In X. Xi, S. Cushing, & T. François (Eds.), _Bloomsbury Handbook of Automated Language Assessment_. (manuscript submitted).
