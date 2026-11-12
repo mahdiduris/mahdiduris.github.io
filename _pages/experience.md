@@ -7,8 +7,8 @@ description: "Academic and research appointments, teaching roles, and lab coordi
 ---
 <span style="color: #005700">**Assistant Professor**</span> <span style="color:grey">(Tabuk, KSA)</span><br/>
 University of Tabuk <span style="color:grey">(Aug. 2026 — <span style="color: #00ad00">Present</span>)</span><br/>
-+ English Language Institute (ELI)
-+ Director, Language Research Lab (rLab)
++ English Language Institute (<a href="https://www.ut.edu.sa/en/about-ut/faculty-members/mduris" target="_blank" style="color: black; text-decoration: underline;text-decoration-style: dotted;">ELI</a>)
++ Director, Language Research Lab (_**rLab**_)
 + Member, English Language Department Council
 + Instructor of Record
   + ELS 1102: Engineering Track
